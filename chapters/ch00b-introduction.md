@@ -38,6 +38,15 @@ Brightwater Distribution is fictional. It is a composite, built from patterns th
 
 Brightwater is a regional industrial supply distributor in the Southeast of the United States. It has 1,100 employees and \$420 million in annual revenue. It sells bearings, belts, fasteners, safety gear and thousands of other parts to factories, contractors and maintenance shops. Most of its people work in warehouses and on trucks. About 200 work in offices, and those 200 run the machinery you can't see: the quotes, the orders, the credit checks, the invoices, the disputes, the collections. Together that stretch of work is called Order-to-Cash, the full journey from a customer asking for a price to Brightwater banking the payment.
 
+:::{figure} ../images/ch00b-brightwater-glance.png
+:label: fig-ch00b-brightwater-glance
+:alt: Brightwater at a glance with 1,100 employees, 420 million dollars in annual revenue and about 200 people in offices, above the Order-to-Cash flow from quotes through orders, credit checks, invoices, disputes and collections to a banked payment
+:width: 100%
+:align: center
+
+Brightwater at a glance. About 200 of its 1,100 people work in offices, and they run Order-to-Cash, the journey from a customer's price request to a banked payment.
+:::
+
 You will get to know six people there. Dana Ruiz is the CEO who bought the licences in good faith. Marcus Bell is the CFO who couldn't find the money. Priya Shah is vice president of Order-to-Cash, the person who owns that whole journey and will end up owning the fix. Tom Okafor manages the inside-sales team that builds Brightwater's quotes. Lena Ortiz is a senior credit analyst whose best judgment is buried under clerical work. And Sam Whitfield is the data scientist who builds the AI tools that the rest of the book will put to work.
 
 None of them is foolish. That is the point. Smart, well-meaning people made a \$1.5 million number appear, and smart, well-meaning people couldn't find it.
@@ -69,6 +78,15 @@ They went where unclaimed time always goes. Emails got a little longer and a lit
 
 **AI didn't fail. Nobody gave the hours a job.**
 
+:::{figure} ../images/ch00b-where-hours-went.png
+:label: fig-ch00b-where-hours-went
+:alt: An orange box of 37,600 freed hours with five arrows fanning out to longer emails, meetings that used to be skipped, extra report formatting, leaving earlier on Friday and a calmer pace
+:width: 100%
+:align: center
+
+Where Brightwater's 37,600 freed hours went. With no destination, the time spread into longer emails, extra meetings, polished reports and a calmer pace, just as Parkinson predicted.
+:::
+
 ## Time is not money until someone decides
 
 You have heard that time is money. In the age of AI, it's the most expensive half-truth in business.
@@ -77,15 +95,42 @@ AI saves time. That part is real, and it will keep getting more real. What AI do
 
 There are only a handful of ways that can happen, and this book will give each of them a name and a P&L line. You can stop paying for something, like overtime or a temp contract. You can avoid a cost you had planned, like the four hires in next year's plan. You can point the hours at revenue, so salespeople make calls they never had time for. You can cut errors, so fewer credits and write-offs leave the building. You can speed things up so cash arrives sooner. Or you can invest the hours in a funded project with its own business case. Hours that get none of those destinations are what this book calls Leak, and Leak is worth exactly \$0 no matter how big the slide says it is.
 
+:::{figure} ../images/ch00b-six-destinations.png
+:label: fig-ch00b-six-destinations
+:alt: A freed hour with six arrows to stop paying for something, avoid a planned cost, point hours at revenue, cut errors, speed up cash and invest in a funded project, and a dashed arrow to Leak worth zero dollars
+:width: 100%
+:align: center
+
+The six destinations that turn a freed hour into money, and the seventh path, Leak, that turns it into \$0.
+:::
+
 When an hour has a destination, an owner and a date, we say it has been banked. Banking is the missing step between the AI demo and the CFO's signature, and it's the step that almost nobody runs.
 
 That's the heart of it. The rest of this book is about how to run that step on purpose, every time, across every part of your company, so the money shows up where finance can find it. The system for doing that is called the Cognition Ledger, the AI Value Stream Mapping method. It borrows the most trusted tool in operations, the value stream map, which follows one piece of work from request to delivery and shows where the time goes, and extends it all the way to the P&L. It keeps three numbers apart that most companies blur together: what's theoretically possible, what's planned, and what finance has verified. By the end of the book you will watch Brightwater report a number to its board that sounds smaller than \$1.5 million and is worth far more, because every dollar of it is real.
+
+:::{figure} ../images/ch00b-three-numbers.png
+:label: fig-ch00b-three-numbers
+:alt: Three bars of decreasing height labelled Possible, Planned and Verified, with the shortest, Verified, marked as the only number to report
+:width: 100%
+:align: center
+
+The three numbers the Cognition Ledger keeps apart: what is theoretically possible, what is planned, and what finance has verified. Only the last belongs in front of a board.
+:::
 
 ## Why the tools will change and this problem won't
 
 A fair question about any book on AI is whether it will be out of date before the ink dries. The tools change every few months. The names change. The prices change. What's the point of a book?
 
 Here is the answer, and it's the reason the book is built the way it is: the problem in Marcus Bell's email is older than AI and will outlive every tool you can buy today. Companies have been buying time-saving technology and failing to find the money for more than a century. They did it with electric motors, and they did it again with personal computers. Chapter 1 tells that story, because it's the best map we have of what happens next. Every time, the gains arrived only when leaders stopped asking "what can this tool do?" and started asking "how should the work be organized now that this exists?"
+
+:::{figure} ../images/ch00b-same-question.png
+:label: fig-ch00b-same-question
+:alt: A timeline of electric motors, personal computers and AI, each with the crossed-out question what can this tool do, above one band asking how the work should be organized now that this exists, which leads to gains
+:width: 100%
+:align: center
+
+Electric motors, personal computers and AI share one pattern: the gains arrive only when leaders stop asking what the tool can do and start asking how the work should be organized around it.
+:::
 
 So this book is built on ideas, not products. Two ideas in particular matter more than any brand name, and you'll meet them throughout.
 
@@ -142,6 +187,15 @@ One more suggestion. Read it with someone from the other side of the money. If y
 ## Monday Morning
 
 Find the last AI savings number your company reported, from a vendor, a pilot or an internal survey. Ask one question about it: where on the P&L would we see this? If nobody can name the line, the owner and the date, you've found your first Leak, and you're ready for Chapter 1.
+
+:::{figure} ../images/ch00b-leak-test.png
+:label: fig-ch00b-leak-test
+:alt: A flow from the last AI savings number to the question where on the P&L would we see this, checked against line, owner and date, leading to real savings when all three are named and to a Leak when any one is missing
+:width: 100%
+:align: center
+
+The Monday Morning test. Put your last AI savings number to one question; if nobody can name the P&L line, the owner and the date, you have found a Leak.
+:::
 
 *AI saves time; only a decision about where that time goes turns it into money.*
 

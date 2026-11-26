@@ -90,6 +90,15 @@ The word "agent" has been stretched to cover almost anything with AI in it. Anth
 
 That guidance comes with advice that should be framed and hung in every AI steering committee: find "the simplest solution possible," and only increase complexity when needed. The reason is plain economics. Agentic systems, Anthropic notes, "often trade latency and cost for better task performance." An agent takes more steps, makes more model calls and takes longer than a fixed path. And because each step builds on the last, a mistake early on can carry through every step after it; the guidance warns of "the potential for compounding errors." A fixed path fails in predictable places. An agent can fail in creative ones.
 
+:::{figure} ../images/ch05-workflow-vs-agent.png
+:label: fig-ch05-workflow-vs-agent
+:alt: A workflow drawn as four fixed steps in a line, written in advance by an engineer, beside an agent drawn as a model in the middle choosing among several tools, with the note that it takes more steps, costs more and errors can compound
+:width: 100%
+:align: center
+
+In a workflow an engineer fixes the steps in advance; in an agent the model chooses them as it goes. That freedom costs steps, money and the risk of compounding errors.
+:::
+
 So when is an agent worth it? When the work is open-ended, "where it's difficult or impossible to predict the required number of steps," and when success can be checked. Anthropic names customer support and coding as good fits, and notes that code is verifiable through automated tests. In both, the agent can tell whether it succeeded, and so can you.
 
 :::{figure} ../images/ch05-skill-vs-agent.png
@@ -118,6 +127,15 @@ The first group asks whether the work needs AI at all. This is the **Cognition**
 The second group decides between a Skill and an agent. This is the **Autonomy** group. A1: what starts the work, a person deciding to (1) or an event or schedule (5)? A2: how fixed is the path, the same steps every time (1) or steps that depend on what it finds (5)? A3: how many systems does it touch, one document or chat (1) or four or more systems where it takes actions (5)? A4: must it run unattended, with a person there anyway (1) or with nobody watching (5)?
 
 The third group decides how much human control to keep. This is the **Risk** group. R1: what does a wrong output cost, from trivial (1) to severe, affecting a customer, the ledger or a legal position (5)? R2: can it be undone, easily (1) or not at all (5)?
+
+:::{figure} ../images/ch05-nine-questions.png
+:label: fig-ch05-nine-questions
+:alt: Three panels of questions each scored 1 to 5: Cognition with judgment, unstructured inputs and case variety; Autonomy with what starts it, how fixed the path, systems touched and runs unattended; Risk with cost of a wrong output and can it be undone; each group's average becomes its index
+:width: 100%
+:align: center
+
+The Sort Score's nine questions in their three groups. Cognition asks whether the work needs AI, Autonomy chooses between a Skill and an agent, and Risk sets how much human control to keep.
+:::
 
 Each group's average becomes an index. In plain words: add up the scores in a group and divide by how many questions it has. Take Brightwater's dispute triage idea, OTC-04, which would gather the invoice, purchase order and proof of delivery for each dispute, classify it and draft a resolution. Its cognition answers were 4, 5 and 4, so its Cognition Index is 13 divided by 3, or 4.33. Its autonomy answers were 5, 4, 4 and 4, so its Autonomy Index is 17 divided by 4, or 4.25. Its risk answers were 3 and 3, so its Risk Index is 3.0.
 
@@ -190,6 +208,15 @@ Figure 5.6: Nothing written into a Skill is wasted when you move up the ladder. 
 A good Skill often becomes one of an agent's tools later. Brightwater's quote Skill is a person's tool today: someone on Tom's team starts it, reads the draft and sends it. But a year from now, an order agent that reads every incoming customer email might need to build a quote as one step of a longer job. It won't need a new quoting method. It will reach for the same Skill, with the same pricing rules, template and margin check that the team has been refining for a year. The know-how written down for people becomes a part an agent can pick up.
 
 That's why Skills first is not a timid strategy. It's the fastest path to agents that work. An organization that has written down twenty Skills has twenty tested, reviewed, refined pieces of expertise ready for its first agents to use. An organization that skipped straight to agents has an agent improvising its way through work nobody ever wrote down.
+
+:::{figure} ../images/ch05-skills-first.png
+:label: fig-ch05-skills-first
+:alt: A path through Brightwater's three Skills, the quote builder, collections email and credit memo, leading to agents later, beside four benefits of building Skills first: cheaper to build and run, a person sees every output, fails gently at review, and teaches the team to write down its know-how
+:width: 100%
+:align: center
+
+Brightwater built its three Skills before any agent. Each one was cheap, reviewed and safe to get wrong, and together they taught the team to write down its know-how.
+:::
 
 Which brings us to the line that sums up this stage of the method.
 

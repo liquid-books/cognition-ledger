@@ -32,6 +32,15 @@ None. Not one. Three months of work, eleven builds, and the company had exactly 
 
 Here is the uncomfortable lesson. The first win doesn't prove you have a system. It proves you had a project. A project ends. A system keeps the books open: every idea, every build and every freed hour stays visible, moving and accounted for, quarter after quarter, long after the excitement fades.
 
+:::{figure} ../images/ch10-project-vs-system.png
+:label: fig-ch10-project-vs-system
+:alt: Two panels compare a project, with eleven builds open, none live and a stale ledger, against a system in which every idea is visible, every build is moving and every freed hour is accounted for
+:width: 100%
+:align: center
+
+A project ends when the excitement does. A system keeps every idea, build and freed hour visible quarter after quarter.
+:::
+
 This chapter is about the system. It's the least glamorous chapter in the book and, for many organizations, the one that decides whether the other nine paid off.
 
 ## A Board, Not a Binder
@@ -41,6 +50,15 @@ Most companies keep their AI ideas in one of two places: a slide deck or somebod
 The Cognition Ledger works the other way. It's a board, run like an **issue tracker**: the kind of tool software teams use to follow every piece of work from "someone had an idea" to "it's done," with a status, an owner and a history for each item. You can run it in Jira, Azure DevOps, Trello, Asana, a shared spreadsheet or a whiteboard with sticky notes. The tool doesn't matter. The structure does, and the structure outlives any tool you'll buy.
 
 The structure has five levels, from big to small. At the top sits the **value stream**, like Order-to-Cash (every step from a customer's order to the cash in the bank). Inside it sit the **process steps**, like Disputes or Quoting. Inside each step sit the **use cases**: one ticket for each idea, typed as a Skill (packaged expertise, a written recipe of your best person's know-how), an agent (autonomous cognition, a digital worker for a whole job), plain workflow automation, or keep human. Under each use case hang the **build tasks**, and beside it hang its **Hour Budget lines**, the plan that gives every freed hour a job. If you've used an issue tracker, that's project, epic, issue, sub-task and linked issue. If you haven't, think of a filing cabinet where every drawer is a value stream, every folder a step, and every sheet of paper an idea that has to keep earning its place.
+
+:::{figure} ../images/ch10-ledger-levels.png
+:label: fig-ch10-ledger-levels
+:alt: Nested boxes show the ledger's levels: a value stream such as Order-to-Cash holds process steps such as Disputes or Quoting, which hold use case tickets, each with build tasks and Hour Budget lines beneath it
+:width: 100%
+:align: center
+
+The ledger's structure from big to small. Whatever tool you run it in, each idea has exactly one home and one Hour Budget beside it.
+:::
 
 Every ticket carries the same fields, so tickets can be compared: who owns it, what type it is, the nine Sort Score answers, units per week, baseline and new minutes per unit, oversight hours, the base pay of the role, baseline and new error rates, cost per error, run cost, build cost, confidence, effort, and finance's sign-off with a date. That list looks bureaucratic until you notice what it does. It makes a vague idea ("AI could help with returns") into a claim someone can check.
 
@@ -87,6 +105,15 @@ Figure 10.2: The last build finishes in month nine either way. The difference is
 That's the whole reason for a **work-in-progress limit**, usually called a WIP limit: a hard cap on how many items may sit in one column at once. Lean manufacturers learned it on the factory floor. Toyota's kanban system (a card system where a station only starts new work when a card signals that the next station has room) exists to stop inventory piling up between stations, because inventory is money that isn't earning yet. Software teams borrowed the idea decades later and found the same thing. Half-built software, like half-built cars, earns nothing.
 
 Half-built AI is worse, for three reasons. First, every open build keeps its own context alive in someone's head, and switching between eleven contexts is the cognitive waste you met in Chapter 4, now inflicted on your best builders. Second, the measured baselines go stale while the build drags on; the process you sized in March may not be the process you ship into in November. Third, nothing teaches you what you got wrong except shipping. A team that finishes three builds learns three lessons before it starts the next three. A team with eleven in flight learns all eleven lessons at once, in month nine, when it's too late to use them.
+
+:::{figure} ../images/ch10-half-built.png
+:label: fig-ch10-half-built
+:alt: Three cards name the extra costs of half-built AI, context switching, stale baselines and late lessons, above a comparison of finishing three builds at a time with eleven in flight at once
+:width: 100%
+:align: center
+
+Three reasons half-built AI costs more than half-built software. A team that finishes in small batches learns before it starts again.
+:::
 
 So the ledger sets a WIP limit on the Building column, typically three to five per value stream, and the AI Value Office (more on that in a moment) enforces it. When Building is full, a new idea waits in Sized, fully measured and ready. Nothing is lost by waiting there. Everything is lost by squeezing it in.
 
@@ -139,6 +166,15 @@ Figure 10.4: Notice which chair is missing: no seat for a vendor or a tool. The 
 Just as important is what the office is not. It is not IT's backlog; it decides what is worth building, and IT is one of the people who builds it. It is not a demo lab; pilots answer to the ledger, not to applause. It is not a tool committee; tools change every year, and an office organized around tools will spend its life comparing them. And it is not a big department. A few hours a week from five people is enough for most mid-sized companies, and the moment the office starts hiring its own staff to produce reports about itself, it has become the waste it was set up to find.
 
 One more reveal sits here, and it surprises executives every time. The office's most useful power isn't the power to approve. It's the power to say "not yet" with a reason. Every department head who asked Sam for a build got an answer within a week: your idea is in Intake; here is the gate it needs next; here is who can help it get there. That's a better answer than yes. A yes with no gate behind it is how Sam ended up with eleven half-builds. A "not yet" with a gate behind it is a promise the company can keep.
+
+:::{figure} ../images/ch10-not-yet.png
+:label: fig-ch10-not-yet
+:alt: Two paths for a build request; a yes with no gate leads to eleven half-builds, while a not yet with a reason tells the requester the idea is in Intake, which gate it needs next and who can help, all within a week
+:width: 100%
+:align: center
+
+The AI Value Office's most useful answer is not yes. It is not yet, with the next gate and a helper named.
+:::
 
 ## The Courage to Kill
 

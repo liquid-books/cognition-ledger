@@ -63,6 +63,15 @@ Three terms make the whole picture work, so let's define them before we look at 
 
 **Lead time** is the elapsed time from the customer's request to its completion. It's simple arithmetic: lead time equals touch time plus wait time. Lead time is what the customer experiences. Touch time is what the company pays for.
 
+:::{figure} ../images/ch03-lead-time-equation.png
+:label: fig-ch03-lead-time-equation
+:alt: A visual equation of touch time plus wait time equals lead time, with short definitions under each, touch time marked as what the company pays for and lead time as what the customer experiences
+:width: 100%
+:align: center
+
+Lead time is touch time plus wait time. The company pays for the touch time, but the customer lives the whole lead time, waiting included.
+:::
+
 Brightwater works an eight-hour day, so two working days are 960 working minutes. Here's how Priya's quote spent them.
 
 | What happened to the quote | Working minutes | Work or wait |
@@ -121,6 +130,15 @@ Twenty-two minutes of value, buried in two days. A value-adding ratio of 22 ÷ 9
 
 Here's one more way to see the size of what's hiding. Brightwater builds about 660 quotes a week, roughly 132 a working day. There's a simple rule in operations, called Little's law after the scientist who proved it, which says the amount of work in progress equals the rate work arrives multiplied by how long each unit takes to get through. (Chapter 12 puts it to heavy use.) At 132 quotes a day and two days each, Brightwater has about 264 quotes in progress at any moment. That's 264 customers waiting, right now, while each quote gets less than an hour of actual attention. On a factory floor, 264 half-finished products would fill the aisles and somebody would ask why. In the office, they fill a few inboxes and nobody sees them at all.
 
+:::{figure} ../images/ch03-littles-law.png
+:label: fig-ch03-littles-law
+:alt: Little's law shown as work in progress equals arrival rate times time in process, with 132 quotes a day times 2 days equals 264 quotes in progress, comparing a factory floor where work in progress fills the aisles with an office where it hides in inboxes
+:width: 100%
+:align: center
+
+Little's law applied to Brightwater's quotes: about 132 a day, two days each, means about 264 customers waiting at any moment, all of them invisible in a few inboxes.
+:::
+
 ## Complete and accurate
 
 Priya noticed something else on her walk, and it explains a big chunk of the waiting. The quote didn't just sit; it bounced. The request arrived without three part numbers, so it went back to the customer. That bounce cost three hours.
@@ -162,6 +180,15 @@ Cut the typing by 57 percent and the customer notices 2 percent.
 
 That's not a reason to skip the Skill. It's a reason to stop there only if you've decided speed doesn't matter. Because the same map shows exactly where the time is: in four waits, two of which are caused by the process itself rather than by anyone outside it. So Priya and Sam Whitfield, the data scientist who built the Skill, redesigned around the waits instead of just the work.
 
+:::{figure} ../images/ch03-three-redesign-moves.png
+:label: fig-ch03-three-redesign-moves
+:alt: Three numbered cards: check at the front door, pricing rules in the Skill, and give the inbox an owner, each with a short description, above a band reading the approval control stays and gets narrower
+:width: 100%
+:align: center
+
+The three moves that redesigned Brightwater's quote stream around its waits: a completeness check at the door, pricing rules inside the Skill, and an owner for the inbox. The approval control stays, only narrower.
+:::
+
 First, they attacked the front door. The Skill was extended to check every incoming request for completeness the moment it arrived and, where something was missing, to draft a specific question back to the customer for a rep to approve and send. Missing part numbers now get chased in minutes, not hours.
 
 Second, they moved the pricing rules into the Skill. Most discounts that went to Tom's queue were well within patterns he approved every time. Tom wrote those patterns down, and the Skill now prices inside them and flags only the true exceptions for his review. The approval control didn't disappear; it got narrower, so only the decisions that genuinely need Tom's judgment wait for him.
@@ -192,6 +219,15 @@ Which brings us back to Chapter 1. Bolting the quote Skill onto the old process 
 There's a reason Priya had to walk the quote herself. None of what she found shows up in the reports executives normally read. Productivity dashboards measure output per person, which looks fine because the reps are busy. Departmental metrics measure each step, which look fine because each step's %C&A is respectable. AI adoption reports measure usage and minutes saved, which look great. Nothing in that stack of reports measures lead time, the activity ratio or rolled %C&A, because nothing in that stack follows one unit of work from end to end.
 
 That's what Cognitive Value Stream Mapping adds. It looks across the departments instead of inside them, and it treats waiting as seriously as working. It asks, for every step, what kind of thinking happens there and whether that thinking could be done differently. And it gives you four numbers that tell you more about a process than any org chart: lead time, touch time, activity ratio and rolled %C&A.
+
+:::{figure} ../images/ch03-dashboard-blind-spot.png
+:label: fig-ch03-dashboard-blind-spot
+:alt: Left column of usual reports, productivity dashboards, departmental metrics and AI adoption reports, each ticked as looking fine, linked by an arrow labelled follow one unit of work from request to completion to a right column of four end-to-end measures, lead time, touch time, activity ratio and rolled percent complete and accurate
+:width: 100%
+:align: center
+
+The usual reports look inside each department and all look fine. Only following one unit of work end to end produces the four numbers that reveal the waiting.
+:::
 
 Once you've seen a stream that way, you can't unsee it. Every promise that a tool will "save hours" prompts a second question: and what will it do to the wait? Every proposal to automate a step prompts a third: should this step exist at all? That third question is where Part II begins. Before you automate anything, you have to map it honestly and get rid of the waste, because a mess run faster is still a mess.
 

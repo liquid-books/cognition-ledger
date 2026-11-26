@@ -87,6 +87,15 @@ Why did you call the customer instead of guessing which valve they meant? Becaus
 
 The method is old and it works: watch the best person do real work, ask why at every pause, write the answer as an instruction, then have the best person read the instructions and tell you what's wrong. Two or three rounds usually get you there. Lean practitioners call the result standard work, the current best way to do a job, written down so it can be taught and then improved. A Skill is standard work that a machine can follow.
 
+:::{figure} ../images/ch07-ask-why-loop.png
+:label: fig-ch07-ask-why-loop
+:alt: A four-step loop for capturing know-how: watch the best person do real work, ask why at every pause, write each answer as an instruction, and have the best person correct it, repeated two or three rounds to produce standard work a machine can follow
+:width: 100%
+:align: center
+
+The method for getting the house way onto paper: watch, ask why, write it down, and let the best person correct it, for two or three rounds.
+:::
+
 One more design point, because it will matter more every year. A Skill can tell the model to run code, so a Skill from a stranger deserves the suspicion you'd give any software from a stranger. Anthropic's own guidance is to use Skills only from sources you trust, and to read every file in a Skill before you install it. Treat your Skill library like your codebase: owned, reviewed and versioned.
 
 ## Writing the Job Description
@@ -159,6 +168,15 @@ So when does a true agent earn its keep? When you genuinely can't write the step
 
 That's why Brightwater's portfolio looks the way it does. The quote builder is a Skill, and in a year it will likely be a tool an order agent calls. Skills feed agents. The proof-of-delivery bot (OTC-06) needed no AI at all. Only work that truly changes shape case by case got a digital worker of its own.
 
+:::{figure} ../images/ch07-workflow-or-agent.png
+:label: fig-ch07-workflow-or-agent
+:alt: A decision flow asking whether the steps can be written in advance, leading to a workflow such as the quote builder if yes, and, if no and success is clear enough to check, to an agent such as dispute triage
+:width: 100%
+:align: center
+
+Two questions decide between a workflow and an agent: can the steps be written in advance, and is success clear enough to check?
+:::
+
 ## Twenty Real Cases
 
 A demo proves that something can work. A pilot proves how well it works on the mess you actually have: the difference between a test drive on an empty track and a month of school runs.
@@ -199,6 +217,15 @@ It's also why the ledger insists that new minutes include review time, and that 
 
 Agents get one extra safety step. Before the dispute agent touched a live case, it ran in what builders call shadow mode: for two weeks it drafted resolutions on real disputes that nobody acted on, while the analysts worked the same disputes the old way, and Sam compared the two case by case. Anthropic's guidance says the same in plainer words: test agents extensively in a sandbox, a safe copy of the world, before they act in the real one. On the pilot disputes, minutes per dispute fell from 45 to 18, approval included, and the share of wrong credits fell from 6% to 2%.
 
+:::{figure} ../images/ch07-shadow-mode.png
+:label: fig-ch07-shadow-mode
+:alt: Two parallel lanes over two weeks of real disputes, the agent drafting resolutions nobody acts on and analysts working the same disputes the old way, merging into a case-by-case comparison with minutes per dispute falling from 45 to 18 and wrong credits from 6% to 2%
+:width: 100%
+:align: center
+
+In shadow mode the agent works real cases in parallel with the people, and nothing it drafts is acted on until the comparison has been made.
+:::
+
 Every pilot ends in one of three decisions. **Ship**: the numbers hold, so the measured figures replace the estimates in the ledger. **Fix**: the idea is right but the build isn't, so change the instructions or the tools and pilot again. **Park**: the measured gain is too small, or the error rate came out higher than the person's. That last outcome isn't a failure of the method. It's the method working. A pilot that can't say no isn't a pilot; it's a launch party.
 
 One more gate belongs to the next chapter but bites in this one: nothing enters Building without a draft Hour Budget, the plan for where every freed hour will go. Sam couldn't start the dispute agent until the Controller had sketched what would happen to the analysts' time. Chapter 8 shows why that's the most valuable rule in the book.
@@ -208,6 +235,15 @@ One more gate belongs to the next chapter but bites in this one: nothing enters 
 New employees get a probation period: limited system access, a manager who checks their work, a spending limit and a rule about which decisions need a second signature. Nobody takes this as an insult. It's how trust gets built at a pace the organization can survive.
 
 Digital workers need the same, for a sharper reason. That's where the hiring analogy breaks, and it breaks in a way that matters. When a new analyst makes a mistake, you talk it through and they rarely make it again. When an agent makes a mistake, it will make the identical mistake on every similar case tonight, tomorrow night and every night after, until someone changes its instructions or its tools. A person's error is an incident. A machine's error is a policy.
+
+:::{figure} ../images/ch07-incident-vs-policy.png
+:label: fig-ch07-incident-vs-policy
+:alt: Two panels comparing a person's error, which is talked through and rarely repeated, with an agent's error, which repeats on every similar case every night until someone changes its instructions or tools
+:width: 100%
+:align: center
+
+A person learns from a mistake; an agent repeats it on every similar case until its instructions or tools change, which is why guardrails belong in the design.
+:::
 
 So Brightwater wrote its guardrails into the design. Each agent got the narrowest access that does the job: read where it must read, draft where it must draft, and act on a system of record only behind a person's approval. Each got thresholds, so larger amounts climb to more senior approvers, and stop conditions, so it stops rather than guesses. Each got a human checkpoint before anything reaches a customer, a ledger or a system of record, because that's where an error stops being cheap. And each one shows its work. Anthropic lists transparency, making the agent's plan and steps visible, as one of its three core principles for building agents, alongside simplicity and careful design of the tools the agent uses. At Brightwater that meant every drafted credit carried a short note of which documents the agent read and why it chose the category it did, so the analyst could check the reasoning, not just the answer.
 

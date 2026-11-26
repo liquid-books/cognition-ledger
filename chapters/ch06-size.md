@@ -32,6 +32,15 @@ Then Sam ran a pilot of the actual Skill on twenty more real quotes, and timed t
 
 So both of the confident numbers were wrong, in opposite directions. The guess understated the work before. The demo overstated the gain after. The real saving, 20 minutes a quote, was less dramatic than the slide and far larger than the guess, and it was the only one of the three that would survive a meeting with Marcus Bell, Brightwater's CFO.
 
+:::{figure} ../images/ch06-three-claims.png
+:label: fig-ch06-three-claims
+:alt: Bars on one scale for minutes per quote: the team's guess of 15 to 20 minutes, the stopwatch median of 35 minutes from 24 real quotes, the vendor demo of under 2 minutes, and the pilot of 15 minutes with review included, with a real saving of 20 minutes a quote
+:width: 100%
+:align: center
+
+The guess understated the work before and the demo overstated the gain after. Only timed real quotes, 35 minutes down to 15, gave a saving a CFO could trust.
+:::
+
 This chapter is about Size, the third stage of the method. Its job is to give every surviving idea the same three numbers, measured the same way, so that ideas can be compared honestly and a CFO can believe them.
 
 ## The stopwatch beats the survey
@@ -47,6 +56,15 @@ Timing real units corrects both. Twenty is a practical minimum, not a statistica
 Here's an analogy, with its limit. Sizing on estimates is like pricing a house renovation from the homeowner's memory of how long the last one took. A stopwatch is the builder's survey. Where the analogy breaks: a house survey is done once, and a baseline should be redone whenever the process changes, because a number timed before you deleted three steps describes a process that no longer exists.
 
 While you hold the stopwatch, record two other things for each unit. Note when the request arrived as well as when work started, because the gap is waiting, and waiting is lead time. And follow each unit downstream for a few weeks to see whether anyone had to correct it, because that's your baseline error rate. One sitting behind the reps gives you all three.
+
+:::{figure} ../images/ch06-baseline-rules.png
+:label: fig-ch06-baseline-rules
+:alt: A stopwatch beside four rules for a baseline: time at least 20 real units including ugly cases, use the median not the average, record when the request arrived and when work started, and follow each unit downstream to find the error rate
+:width: 100%
+:align: center
+
+Four rules for a baseline a CFO will believe. One session with a stopwatch yields touch time, waiting and the error rate together.
+:::
 
 With a real baseline in hand, every idea owes you three numbers: time, money and quality.
 
@@ -104,6 +122,15 @@ Brightwater uses a load factor of 30% and 1,880 productive hours: 2,080 paid hou
 
 The common mistake is to divide base pay by 2,080 and stop. That gives \$62,000 ÷ 2,080 = \$29.81, which understates what an hour really costs by about 30%. It's a conservative error, and conservative errors feel safe, but they aren't. A team that prices its hours too low will rank its ideas wrongly and leave good ones unfunded. The opposite error, a rate inflated with overheads the company would pay anyway, is just as common in vendor cases. The cure for both is the same: agree the load factor and the productive hours with finance, once, write them on the Assumptions sheet of the ledger, and use them everywhere.
 
+:::{figure} ../images/ch06-loaded-rate.png
+:label: fig-ch06-loaded-rate
+:alt: Two calculations for an inside-sales rep paid 62,000 dollars: the common mistake divides by 2,080 paid hours to get 29.81 dollars an hour, understating by about 30 percent, while the loaded rate multiplies by 1.30 and divides by 1,880 productive hours to get 42.87 dollars an hour
+:width: 100%
+:align: center
+
+The same \$62,000 salary priced two ways. Dividing by paid hours gives \$29.81; adding the load and using productive hours gives the true \$42.87.
+:::
+
 Multiply hours by the rate and you get **theoretical value**. For the quote builder: 10,246 hours times \$42.87 is **\$439,270 a year.**
 
 That's a big, precise number, and it's exactly the number that has caused every disappointment this book has described. It isn't savings. Nobody stops paying anything because a quote takes 15 minutes instead of 35. The reps still draw their salaries. The \$439,270 measures the size of the opportunity: what those hours would be worth if the company decided to do something with them.
@@ -126,6 +153,15 @@ Every idea also carries two costs. The **one-time build cost** covers design, bu
 From those come two more numbers. **Net annual banked value** is projected banked value minus run cost: \$392,382 − \$9,000 = \$383,382 for the quote builder, and \$533,458 − \$42,000 = \$491,458 for the dispute agent. **Payback** is how many months of net banked value it takes to repay the build cost. In plain words: divide net banked value by 12 to get a month's worth, then divide the build cost by that. For the quote builder, \$383,382 ÷ 12 is \$31,949 a month, and \$15,000 ÷ \$31,949 is **0.47 months**, about two weeks. For the dispute agent, \$491,458 ÷ 12 is \$40,955 a month, and \$85,000 ÷ \$40,955 is **2.08 months.**
 
 Both are excellent. But notice which way the gap runs. The bigger, more impressive build takes more than four times as long to pay back. Hold that thought.
+
+:::{figure} ../images/ch06-build-run-payback.png
+:label: fig-ch06-build-run-payback
+:alt: Build and run costs for the quote Skill, 15,000 dollars to build and 9,000 dollars a year to run, and the dispute agent, 85,000 dollars to build and 42,000 dollars a year to run, with payback bars on one shared axis of 0.47 months and 2.08 months
+:width: 100%
+:align: center
+
+Two costs for every idea, one-time build and annual run, and the payback they produce. The quote Skill repays its \$15,000 in about two weeks; the dispute agent takes 2.08 months.
+:::
 
 ## Number three: quality
 

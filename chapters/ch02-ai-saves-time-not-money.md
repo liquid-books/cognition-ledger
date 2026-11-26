@@ -44,6 +44,15 @@ The essay was a satire of government, and its sharper points were about bureaucr
 
 Here's what Parkinson's law means for AI, and it's the first surprise of this chapter. AI doesn't break Parkinson's law. It feeds it. When a tool makes a piece of work cheaper to produce, two things happen at once. The time that work used to take is freed. And the work itself gets cheaper, so we produce more of it. Drafting an email used to take fifteen minutes, so you wrote fewer and shorter ones. Now it takes one minute, so you write more, and longer, and you polish them. A report used to take a day to format, so only important ones got formatted. Now every report can look like a board paper. The freed time and the extra output meet in the middle, and the middle is a busier day that produces nothing more of value.
 
+:::{figure} ../images/ch02-parkinson-feeds.png
+:label: fig-ch02-parkinson-feeds
+:alt: Flow diagram where AI making a piece of work cheaper, such as an email draft going from 15 minutes to 1 minute, splits into time is freed and we produce more of the work, which converge into a busier day and nothing more of value
+:width: 100%
+:align: center
+
+Cheaper work frees time and invites more work at once. The two meet in a busier day, which is how AI feeds Parkinson's law instead of breaking it.
+:::
+
 That's not laziness, and it's important to say so, because the easy reaction to this chapter is to blame people. Unassigned time behaves like water. It runs downhill into whatever's nearest: the inbox, the meeting, the nice-to-have, the slightly earlier finish. Every individual choice is reasonable. A manager who accepts a meeting because the morning has room isn't shirking. A rep who spends ten more minutes on a customer email is being conscientious. A team that finishes a little earlier on Friday after a hard week isn't stealing. Multiply those reasonable choices across 200 people and you get Brightwater's year: 37,600 freed hours, every one of them spent, none of them banked.
 
 :::{figure} ../images/ch02-hour-leak.png
@@ -107,6 +116,15 @@ This is why the problem lands on executives, and why it's a management gap, not 
 
 There's an uncomfortable wrinkle here too. From a middle manager's seat, freed capacity is valuable precisely because nobody upstairs knows about it. It's slack: a cushion against the next surprise, the next sick day, the next rush order. A sensible manager may quietly keep it. That isn't dishonesty. It's what the incentives reward when nobody asks for the hours back and nobody offers anything in exchange. Which means the executive's job isn't just to decide where hours go. It's to make it safe, and worthwhile, for managers to put their freed hours on the table.
 
+:::{figure} ../images/ch02-hidden-slack.png
+:label: fig-ch02-hidden-slack
+:alt: Two panels: the middle manager's seat, where freed capacity is a cushion for the next surprise, sick day or rush order and is kept quiet, and the executive's job of asking for the hours, making it safe to share them and making it worthwhile, which puts hours on the table
+:width: 100%
+:align: center
+
+From a middle manager's seat, quietly keeping freed hours as slack is the sensible choice. The executive's job is to ask for them and make sharing them safe and worthwhile.
+:::
+
 **Hours aren't money until they're banked.**
 
 ## What "banked" means
@@ -126,6 +144,15 @@ Next, put a price on an hour. Finance uses the **loaded hourly rate**: annual ba
 Multiply the two and you get **theoretical value**: 10,246 hours × \$42.87 = **\$439,270 a year**. This is the number that goes on vendor slides. And here is the rule this book will repeat until you're sick of it: theoretical value is never reported as savings. It's the size of the opportunity, not a payment. It's what Brightwater's \$1.5 million slide was, writ small.
 
 Now comes banking. Priya Shah, who owns the whole Order-to-Cash stream, sat down with Tom and Marcus before the Skill went live and asked where each of those 10,246 hours would go. There are six possible destinations, which this book calls levers, and each lands on a different line of the P&L. **Cut** stops paying for something, like overtime or a temp contract. **Avoid** absorbs growth without hires the plan called for. **Grow** points the hours at revenue. **Fix** reduces errors and the credits and write-offs they cause. **Speed** shortens how long work takes so cash arrives sooner. **Invest** sends the hours to a funded strategic project. Any hour without a lever is **Leak**, and Leak is valued at \$0.
+
+:::{figure} ../images/ch02-six-levers.png
+:label: fig-ch02-six-levers
+:alt: A freed hour with arrows to six levers, Cut, Avoid, Grow, Fix, Speed and Invest, each with a one-line description, and a seventh grey dashed card for Leak, no lever, valued at zero dollars
+:width: 100%
+:align: center
+
+The six levers that give a freed hour a destination on the P&L. Any hour that reaches none of them is Leak, valued at \$0.
+:::
 
 Here's what they decided.
 
@@ -174,6 +201,15 @@ This is why the problem won't go away when the tools improve. A better Skill fre
 Here is the uncomfortable version of this chapter in one sentence: every AI program that doesn't include a decision about where the hours go is, by default, a program for making people slightly less busy. That may be a fine thing to do. Less burnout, better customer emails, more thoughtful work: these have real value. But it isn't a savings program, and it shouldn't be sold to a board as one.
 
 The good news is that the fix is simple to describe, even though it takes discipline to run. Decide where the hours go before you build. Write the decision down, line by line. Have the person whose budget changes sign it. Show the hours nobody has claimed yet, in red, every quarter, until someone claims them. Then have finance check what actually happened. That's the Cognition Ledger in five sentences, and the rest of this book shows how to do each step well.
+
+:::{figure} ../images/ch02-five-step-ledger.png
+:label: fig-ch02-five-step-ledger
+:alt: Five numbered cards in a row: decide where the hours go before you build, write the decision down line by line, the budget owner signs it, show unclaimed hours in red every quarter, and finance checks what actually happened
+:width: 100%
+:align: center
+
+The Cognition Ledger in five steps. None of them is a feature of the tool; each is a decision or a check made by people who own the money.
+:::
 
 But before we can bank hours, we need to know where they really are. Tom's notepad caught twelve minutes. It completely missed something much bigger: the quote that sat in a queue for a day and a half before anyone typed a word. That's where Chapter 3 goes next, into the factory hiding inside your office.
 

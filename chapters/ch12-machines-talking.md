@@ -28,6 +28,15 @@ Priya felt something she hadn't expected. Not excitement. Vertigo.
 
 Because a week later, a different order went through the same relay, just as smoothly, and it was wrong. The customer's PO said "12 CS," meaning twelve cases. The intake agent read it as twelve units of an item sold by the case of twelve. Small slip. But the credit Skill, working from the order it was handed, approved an exposure twelve times too small. The fulfillment agent shipped what the order said. The invoice went out wrong. The customer disputed it, the dispute agent opened a case, and Lena Ortiz, reviewing the credit side, spent most of an afternoon unwinding a mistake that had been born at 2 a.m. and grown up while everyone slept.
 
+:::{figure} ../images/ch12-error-cascade.png
+:label: fig-ch12-error-cascade
+:alt: Five boxes growing larger left to right; the PO intake agent reads 12 CS as twelve units, the credit Skill approves the wrong exposure, the fulfillment agent ships what the order says, the invoice goes out wrong and the customer disputes it
+:width: 100%
+:align: center
+
+One misread unit of measure, passed hand to hand by workers that each did their own job correctly, becomes a customer dispute by morning.
+:::
+
 Every one of those digital workers was accurate on its own. Sam Whitfield had the pilot numbers to prove it. The stream was not. That's the new problem this chapter is about. When the machines start talking to each other, you stop managing tools and start managing a system, and systems have laws of their own.
 
 ## From Tasks to Streams
@@ -95,6 +104,15 @@ Read the grid from top left to bottom right and you move from fixed paths, which
 
 Whatever the pattern, every arrow in your future-state map is a **handoff**, and handoffs are where streams break. In the human world, a handoff loses context: the next person re-reads the email, re-asks the question, re-checks the number. Machines can do better, but only if you design for it. At Brightwater, Sam's rule is that every handoff carries a packet: the unit of work itself, the context the next worker needs (the original PO, the customer's history), and a confidence note saying how sure the sender is and about what. The "12 CS" order would have been caught if the intake agent had passed along one honest sentence: "I'm unsure whether CS means case or each on lines 3 and 4." That's not a technology problem. It's a handoff design problem, and it belongs in each agent's job description from Chapter 7.
 
+:::{figure} ../images/ch12-handoff-packet.png
+:label: fig-ch12-handoff-packet
+:alt: A sending worker passes a packet to the next worker containing the unit of work, its context and a confidence note, with an example note saying the sender is unsure whether CS means case or each on lines 3 and 4
+:width: 100%
+:align: center
+
+A handoff packet carries the work, the context the next worker needs and an honest note about what the sender is unsure of.
+:::
+
 ## How Small Errors Become Big Ones
 
 Now the reveal this chapter was building to. Here is a question worth asking at your next leadership meeting: if each of five digital workers in a row gets its part right 95 times out of 100, how often does a unit get through the whole stream with no error?
@@ -140,6 +158,15 @@ Why do two well-placed checkpoints beat five nervous ones? Because a checkpoint 
 **Put the human where the errors compound, not where the nerves are.**
 
 "Where the nerves are" is the place that feels risky: the customer-facing email, the shiny new agent, the step the CEO asked about last week. "Where the errors compound" is something you can find on the map, with four questions. Where does an error become hard to undo, like goods leaving the dock, money leaving the bank or an entry hitting the general ledger? Where does an error multiply, because many downstream steps build on it? Where do controls require a second person, the principle accountants call **segregation of duties**, which says the same party shouldn't both initiate and approve a transaction? And where does the stake cross a threshold, so that a \$400 credit can pass with a sample check while a \$40,000 one waits for a named approver?
+
+:::{figure} ../images/ch12-compound-questions.png
+:label: fig-ch12-compound-questions
+:alt: Four cards pose the questions that locate a checkpoint: is the error hard to undo, does it multiply, do controls need a second person, and does the stake cross a threshold, such as a 400 dollar credit versus a 40,000 dollar credit
+:width: 100%
+:align: center
+
+Four questions turn checkpoint placement from a feeling into something you can find on the value stream map.
+:::
 
 Two more design rules keep checkpoints from becoming the new bottleneck. First, size them with Little's law: if 300 items a week will reach a checkpoint and each takes four minutes to review, that's 20 hours of someone's week, and it belongs in the Hour Budget as new minutes, not as a surprise. Second, design for graceful failure. When an agent is unsure, it shouldn't guess and it shouldn't stop the line. It should route the unit to a person with a prepared decision: here's what I found, here's what I'd do, here's what I'm unsure about. A good checkpoint feels to the reviewer like reading a well-prepared memo, not like redoing the work.
 

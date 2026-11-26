@@ -66,6 +66,15 @@ AI frees time. It does not free money. Money moves only when someone decides wha
 
 A value stream map is the lean drawing that follows one unit of work, one quote or one order, from the customer's request to delivery and payment. It shows where the time actually goes, and in offices the answer is almost always the same: the work isn't slow, it's waiting. Touch time, the minutes someone actively works on a unit, is a sliver of lead time, the elapsed time from request to done. Mapping first prevents two traps. The first is automating the typing when the real prize was the queue. The second is automating waste: a report nobody reads, a third review nobody needs. Delete pure waste, simplify what is necessary, and only then automate what is left. A beautifully automated report nobody reads is still waste. It's just cheaper waste.
 
+:::{figure} ../images/ch14-waiting-not-slow.png
+:label: fig-ch14-waiting-not-slow
+:alt: A lead time bar that is mostly waiting with thin slivers of touch time, above three steps: delete pure waste, simplify what is necessary, automate what is left
+:width: 100%
+:align: center
+
+In office work the time goes to waiting, not working. Map it, delete and simplify first, and automate only what is left.
+:::
+
 **3. Earn your way to autonomy.**
 
 There are four lasting answers to the question "who should do this work?" Plain rules-based automation, for clean inputs and fixed steps. Packaged expertise: your best person's know-how written down once so everyone can use it, with a person starting it and a person checking the result. Today we call that a Skill. Autonomous cognition: a digital worker that picks up a whole job when something happens, chooses its own steps inside limits and hands a prepared decision to a person. Today we call that an agent. And a person, with AI assisting. The principle is to use the simplest one that works and climb only when the climb pays for itself. The trap is falling for the most exciting idea in the room; Brightwater's portal bot didn't need AI at all. Skills usually come first because they are cheap, easy to review and teach a company to write down what it knows, and good Skills later become the tools an agent uses. Whatever we call them in ten years, you will still be choosing among these four.
@@ -78,6 +87,15 @@ Ask people how long a task takes and you get the memory of the task: the bad day
 
 The reviewer's minutes are part of the machine. When AI drafts and a person checks, the checking is part of the new process. So is the time someone spends watching the system, handling its exceptions and keeping its reference files current. Brightwater's quote Skill took quotes from 35 minutes to 15, and the 15 includes the review. Someone also spends 2 hours a week keeping the price file the Skill reads up to date, and that comes off the top. Leave those out and your hours look bigger for exactly one meeting: the one before finance checks them. The trap is demo math, the speed of the machine reported as the speed of the process. Count the human in the loop and the number shrinks a little and becomes believable a lot. Believable beats big every time a budget is on the line.
 
+:::{figure} ../images/ch14-reviewer-minutes.png
+:label: fig-ch14-reviewer-minutes
+:alt: Two bars for one quote, 35 minutes before and 15 minutes after with the review included, plus 2 hours a week of price file upkeep that comes off the top
+:width: 100%
+:align: center
+
+The quote Skill's 15 minutes include the person checking the draft, and the weekly upkeep of the price file is subtracted too. That is what makes the number survive finance.
+:::
+
 **6. A possibility is not a payment.**
 
 Theoretical value is hours freed times the loaded hourly rate, which is what an hour of a person's time costs the company once benefits and overhead are added to pay. It measures the size of the opportunity, and it is never reported as savings. Brightwater's quote Skill freed 10,246 hours a year at \$42.87 an hour: \$439,270 of theoretical value. Not one dollar of that reached the P&L because of the arithmetic. The trap is the slide that adds up theoretical value across forty pilots and calls it the AI program's return. A board believes that slide once. When the money doesn't arrive, it stops believing anything you say about AI, including the true parts. Theoretical value is a promise, not a payment.
@@ -85,6 +103,15 @@ Theoretical value is hours freed times the loaded hourly rate, which is what an 
 **7. Every hour gets a job, or a red flag.**
 
 Each freed hour goes to one of six levers. Cut: stop paying for something, such as overtime or a contractor. Avoid: absorb growth or attrition without a hire the plan called for. Grow: move the hours to work that earns revenue. Fix: fewer errors, credits and write-offs. Speed: shorter lead time that brings cash in sooner. Invest: a funded strategic project with its own business case. Each lever lands on a named P&L line with a named budget owner and a date. Anything left over is Leak, valued at \$0 and reported every quarter until someone decides. Brightwater's quote Skill sent 7,520 hours to Avoid and 2,000 to Grow, and showed 726 hours of Leak in red. The trap is the invisible leak: hours that drift into longer meetings and nicer slides while everyone assumes someone else has a plan. Showing the leak isn't an admission of failure. It's the to-do list.
+
+:::{figure} ../images/ch14-hours-get-jobs.png
+:label: fig-ch14-hours-get-jobs
+:alt: A stacked bar of the quote Skill's freed hours: 7,520 to Avoid, 2,000 to Grow and 726 shown in red as Leak, above tiles for the six levers Cut, Avoid, Grow, Fix, Speed and Invest
+:width: 100%
+:align: center
+
+Every freed hour is assigned to one of six levers. Whatever is left is Leak, valued at zero and shown in red until someone decides.
+:::
 
 **8. Whoever's budget moves signs first.**
 
@@ -97,6 +124,15 @@ Only value that the chief financial officer, or a finance partner the CFO names,
 **10. Three numbers, side by side, always.**
 
 Every quarter, theoretical value, projected banked value and realized value are shown together and never added together. Theoretical is the opportunity. Projected banked is the plan, value with a lever, a P&L line, an owner and a date. Realized is the proof. The gaps between them are management signals: the realization rate (realized divided by projected banked) tells you whether the Hour Budgets are being worked, and the realization gap (theoretical minus realized) tells you how much promise hasn't reached the P&L yet. The trap is reporting only the flattering number, or blending all three into one big figure. Brightwater's dashboard showed \$1,214,780 theoretical, \$1,292,292 projected banked and \$288,463 realized. The plan is bigger than the opportunity because Fix and Speed bank value that doesn't come from hours at all. A board that sees all three numbers learns to trust all three.
+
+:::{figure} ../images/ch14-three-numbers.png
+:label: fig-ch14-three-numbers
+:alt: Three bars side by side: 1,214,780 dollars theoretical, 1,292,292 dollars projected banked and 288,463 dollars realized, a realization rate of 22.3 percent
+:width: 100%
+:align: center
+
+Brightwater's three numbers after three quarters, shown together and never added. The gaps between them are the management signals.
+:::
 
 ## What the Ten Have in Common
 
@@ -123,9 +159,27 @@ Figure 14.3: Each role's work feeds the next column. The data scientist's pilot 
 
 **If you are the CFO.** In the first month, set the house numbers before anyone quotes a dollar: the load factor for benefits and overhead (the framework's default is 30%), productive hours per person (1,880), working weeks (47) and the cost of capital, which is what money costs the company to borrow or the return it expects on it (Brightwater uses 7%). In the second month, publish the evidence standard for each lever and name the person who will verify ledger lines each quarter. Insist that baselines use the same months a year earlier, so seasonality can't flatter anyone. In the third month, hold the first verification review and mark each proven line verified, with a date. Expect a low realization rate in the first quarters and say so in advance. A low honest number is a better start than a high one you will have to walk back.
 
+:::{figure} ../images/ch14-cfo-house-numbers.png
+:label: fig-ch14-cfo-house-numbers
+:alt: Four tiles of house numbers the CFO sets in the first month: a 30 percent load factor, 1,880 productive hours per person, 47 working weeks and a 7 percent cost of capital
+:width: 100%
+:align: center
+
+The CFO's first-month job: fix the house numbers every value case will use, before anyone quotes a dollar.
+:::
+
 **If you are a manager who owns a value stream.** In the first month, write a one-page charter that includes what the team may not change, then walk the work with the people who do it and map five to fifteen steps. Time real units. Find one waste you can delete before anyone automates anything, and delete it. In the second month, time at least 20 real units for your top three ideas, score them with the Sort Score, and sit down with each budget owner to draft and sign an Hour Budget. Write the two sentences you will say to the people whose work changes. In the third month, run the ledger board weekly with a work-in-progress limit (no more than three to five items in Building at once) and send the leak report to your executive sponsor monthly.
 
 **If you are a data scientist.** You're the person most likely to be asked to build the exciting thing, and also the person best placed to say "that one doesn't need AI" and be believed. In the first month, sit with your best expert and write their know-how down as a first piece of packaged expertise: today, a Skill with a clear name and description, short instructions, and reference files that load only when the task needs them. Pilot it with five users. In the second month, measure the new minutes per unit on 20 real cases, review time included, along with the new error rate, and replace every estimate in the ledger with pilot data. In the third month, write the job description for your first agent: goal, trigger, tools, the steps it may choose, the human checkpoint, the stop conditions and how it will be measured. Build the fixed-path version first if it does the job, and decline to start any build that has no draft Hour Budget. Saying no to that is the most valuable code review you will ever do.
+
+:::{figure} ../images/ch14-agent-job-description.png
+:label: fig-ch14-agent-job-description
+:alt: A one-page agent job description with seven fields: goal, trigger, tools, steps it may choose, human checkpoint, stop conditions and how it is measured, beside two rules about building the fixed path first and requiring an Hour Budget
+:width: 100%
+:align: center
+
+The data scientist's third-month deliverable: an agent defined like a new hire, with limits and a measure, and no build without a draft Hour Budget.
+:::
 
 ## The Floor Plan, Not the Engine
 

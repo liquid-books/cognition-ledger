@@ -673,6 +673,504 @@
    "provider": "openrouter",
    "model": "google/gemini-3-pro-image",
    "fell_back": false
+  },
+  {
+   "file": "images/ch00-forty-year-wait.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-four-questions.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-how-to-read.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-power-to-prize.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-promise-vs-signature.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-saved-vs-banked.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-slide-or-ledger.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-task-vs-stream.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-time-decides.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00b-brightwater-glance.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00b-leak-test.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00b-same-question.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00b-six-destinations.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00b-three-numbers.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00b-where-hours-went.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch01-factory-to-office.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch01-line-shaft-cost.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch01-where-analogy-breaks.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch01-why-the-lag.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch02-five-step-ledger.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch02-hidden-slack.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch02-parkinson-feeds.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch02-six-levers.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch03-dashboard-blind-spot.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch03-lead-time-equation.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch03-littles-law.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch03-three-redesign-moves.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch04-charter.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch04-six-columns.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch04-thinking-column.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch04-three-classes.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch05-nine-questions.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch05-skills-first.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch05-workflow-vs-agent.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch06-baseline-rules.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch06-build-run-payback.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch06-loaded-rate.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch06-three-claims.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch07-ask-why-loop.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch07-incident-vs-policy.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch07-shadow-mode.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch07-workflow-or-agent.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch08-avoid-test.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch08-banking-order.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch08-hours-drift.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch08-six-rules.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch09-five-lies.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch09-gap-three-piles.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch09-rate-not-alone.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch09-three-audiences.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch10-half-built.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch10-ledger-levels.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch10-not-yet.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch10-project-vs-system.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch11-announce-budget.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch11-four-paths.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch11-hours-decide.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch11-reviewer-trap.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch12-compound-questions.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch12-error-cascade.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch12-handoff-packet.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch13-edge-or-common.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch13-jevons.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch13-pilot-path.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch13-risk-moves.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch14-agent-job-description.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch14-cfo-house-numbers.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch14-hours-get-jobs.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch14-reviewer-minutes.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false,
+   "note": "After bar redrawn to exact 15/35 scale with PIL; rest of the image is the model output"
+  },
+  {
+   "file": "images/ch14-three-numbers.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch14-waiting-not-slow.png",
+   "kind": "chapter figure (added to reach 10 per chapter)",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
   }
  ]
 }

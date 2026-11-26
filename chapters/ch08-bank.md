@@ -38,6 +38,15 @@ Anyone who has planned a wedding knows the seating chart. Two hundred guests, tw
 
 Freed hours behave exactly like that. When a Skill takes twenty minutes off a quote, those twenty minutes don't arrive in a neat pile at the end of the year. They arrive scattered, a few minutes at a time, across 22 people and 660 quotes a week. With no table waiting, they drift: into a longer email, an extra meeting, a little more polish, an earlier finish on Friday. Chapter 2 named the force behind this, Parkinson's law, the observation that work expands to fill the time available. It isn't laziness. It's physics for calendars.
 
+:::{figure} ../images/ch08-hours-drift.png
+:label: fig-ch08-hours-drift
+:alt: Freed minutes scattered across 22 people and 660 quotes a week drifting into longer emails, extra meetings, more polish and an earlier Friday finish, ending in a Leak box worth zero dollars on the P&L
+:width: 100%
+:align: center
+
+Freed time arrives a few minutes at a time, and without a destination it drifts into a busier-looking day that changes nothing on the P&L.
+:::
+
 The **Hour Budget** is the seating chart. It's a short plan that gives every freed hour a destination, called a **lever**, and ties each lever to a line of the P&L, a way of pricing it, the evidence finance will accept, a budget owner and a date. Any hour without a lever has a name too: **Leak**. And the ledger values Leak at exactly \$0, however big the theoretical value looks, because nothing on the P&L changes when an hour drifts to the bar.
 
 Where the analogy breaks is the part that should worry you. A guest without a table at least complains. An unassigned hour makes no noise at all. It vanishes into a busy-looking day, and a year later nobody can say where it went, because it never went anywhere you could point to.
@@ -74,6 +83,15 @@ Each lever is worth a minute of your attention, because each one fails in its ow
 
 **Avoid** is the lever in Marcus's office. You were going to hire, because of growth or because someone is retiring, and now you don't need to. Finance calls this cost avoidance, and it's real only if the hire was in the approved plan. That catch matters more than it sounds. The most common trick in AI business cases (usually an innocent one) is to "avoid" a hire nobody had approved. If the requisition was never in the budget, removing it saves nothing. Brightwater's rule: show me the requisition, then show me it's gone.
 
+:::{figure} ../images/ch08-avoid-test.png
+:label: fig-ch08-avoid-test
+:alt: A two-question test for the Avoid lever: was the requisition in the approved headcount plan, and is it now removed, with only a yes to both counting as real cost avoidance, illustrated by Brightwater's four struck inside-sales requisitions worth 7,520 hours and 322,382 dollars a year
+:width: 100%
+:align: center
+
+An avoided hire counts only if it was in the approved plan and has now been struck from it. Anything else is a phantom requisition.
+:::
+
 **Grow** moves hours to work that brings in revenue: calling lapsed customers, following up quotes, retention. It's the lever everyone loves to propose, because it sounds like growth instead of cost-cutting. It's also the lever finance trusts least, for good reason. Did the new calls cause the sales, or would the customers have come back anyway? So Grow is priced at gross margin, not revenue (the margin is what the company actually keeps), and it needs a control group, a comparable team or territory that didn't get the extra hours, before finance will believe it.
 
 **Grow is the lever everyone wants and the one finance trusts least.**
@@ -108,6 +126,15 @@ A lever is a promise. Six banking rules keep the promises honest, and each one e
 **Price it like finance would.** Cut uses the rate you stop paying. Avoid uses the loaded rate of the hire you don't make. Grow uses gross margin. Speed uses the cost of capital, never the loaded rate. This rule produces a small surprise. At Brightwater, an inside-sales hour costs \$42.87 loaded, and an hour of calls to lapsed accounts earns \$35 of gross margin. So moving an hour from quoting to selling is worth *less* on paper than not hiring someone to do that hour. The exciting lever is often the smaller number. That's not an argument against growth; it's an argument for pricing it honestly.
 
 **Show the leak.** Unassigned hours are reported every quarter until someone assigns them or the use case is re-scoped. Leak is never hidden, rounded away or quietly folded into a Grow line.
+
+:::{figure} ../images/ch08-six-rules.png
+:label: fig-ch08-six-rules
+:alt: Six numbered cards listing the banking rules: decide before you build, the budget owner signs, one hour one destination, name the date, price it like finance would, and show the leak
+:width: 100%
+:align: center
+
+The six banking rules on one page. Each one exists because someone, somewhere, broke it.
+:::
 
 ## Banking OTC-01, Line by Line
 
@@ -194,6 +221,15 @@ This is why sizing a use case by hours alone can point you at the wrong project.
 Every Hour Budget is, underneath, a decision about people's jobs. That's why so many AI programs never write one. As long as the hours stay vague, nobody has to say out loud what happens to the people whose work just got shorter.
 
 The Cognition Ledger doesn't make that decision for you, but it won't let it stay vague. Look at the levers Brightwater actually pulled. Four planned hires not made. A retiring analyst not replaced. Two clerks not backfilled when they move on. Two agency temps, a contractor and a month-end overtime crunch ended. Calls to lapsed customers that had been on the wish list for years. Not one person on Brightwater's payroll lost a job to bank the first half-million dollars, and the order of the levers was the reason: Avoid through growth and attrition first, Cut on outside spend second, Grow third. Most organizations that do this well bank in that order, and they tell their people early.
+
+:::{figure} ../images/ch08-banking-order.png
+:label: fig-ch08-banking-order
+:alt: A three-step staircase of levers in banking order, Avoid through growth and attrition first, Cut outside spend second and Grow third, beside a card describing the two-sentence test for the people whose work is changing
+:width: 100%
+:align: center
+
+Bank through growth and attrition first, outside spend second and new revenue work third, and write down what you will tell the people whose work is changing.
+:::
 
 Priya added one test to every Hour Budget before it could be signed. The budget owner, with the manager closest to the work, had to write the two sentences they'd say to the people whose work was changing. Tom Okafor wrote a pair for the inside-sales team: "We're not hiring the four reps in next year's plan, because this tool gives us that capacity. Nobody on this team is losing their job, and the time it frees goes first to the calls we've never had time to make." If a manager can't write those two sentences, the Hour Budget isn't ready.
 

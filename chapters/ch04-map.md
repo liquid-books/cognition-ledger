@@ -69,6 +69,15 @@ Names for waste are useless until you go and look. The method this book teaches,
 
 Mapping follows the practice lean teams have refined for decades. You pick one value stream, the full chain of steps that turns a customer's request into delivery and payment. You write a short charter: where the stream starts and ends, who owns it, what the team may not change and what problem you're trying to solve. Brightwater's charter for Order-to-Cash ran from "customer sends a quote request" to "cash applied to the invoice", named Priya as the owner and the controller as finance partner, and put three things off limits: pricing policy, credit limits and the ERP system. The problem statement was blunt. Customers waited 52 days on average to pay, disputes sat for 12 days, and inside sales had asked for four new hires just to keep up.
 
+:::{figure} ../images/ch04-charter.png
+:label: fig-ch04-charter
+:alt: A one-page charter for Brightwater's Order-to-Cash stream showing where it starts and ends, the owner, the finance partner, three things off limits and a problem statement of 52 days to pay, 12 days disputes sit and 4 new hires requested
+:width: 100%
+:align: center
+
+The charter Brightwater wrote before walking the stream: start and end points, an owner, a finance partner, what may not change, and the problem in numbers.
+:::
+
 Then you walk it. Toyota calls this going to the *gemba*, a Japanese word for "the actual place", and the rule is the same in an office as on a factory floor: you don't map from the org chart or the procedure manual. You sit next to the person who builds the quote and watch them build it. You follow the dispute from the angry email to the credit memo. The procedure manual describes the process the company thinks it has. The walk shows you the one it actually has.
 
 You draw the stream as a short chain of steps, usually 5 to 15 of them, each named as a verb and a noun: *Build quote*, *Enter order*, *Check credit*. For each step you record six things:
@@ -81,6 +90,15 @@ You draw the stream as a short chain of steps, usually 5 to 15 of them, each nam
 - and one column that classic value stream mapping never needed: **the kind of thinking** the step requires. None, rules, judgment, or expert judgment.
 
 That last column is what makes the map *cognitive*. It tells you where the thinking is, and it will matter enormously in the next chapter, when you decide what kind of tool, if any, each step deserves.
+
+:::{figure} ../images/ch04-six-columns.png
+:label: fig-ch04-six-columns
+:alt: The Build quote step with six tiles beneath it: volume, touch time, wait time, %C&A, systems and inputs, and a highlighted new column for the kind of thinking, from none and rules to judgment and expert judgment
+:width: 100%
+:align: center
+
+The six things to record for every step on the map. The last one, the kind of thinking, is the column classic value stream mapping never had.
+:::
 
 Brightwater's walk produced six steps, and the numbers told a story before anyone said a word.
 
@@ -106,6 +124,15 @@ Now comes the question that separates a map from a picture. For each step, you a
 Every step falls into one of three classes. **Value-adding** work is something the customer would pay for if you showed them: the quote itself, the right parts at the right price. **Necessary non-value-adding** work is something the customer wouldn't pay for, but which you can't stop doing today, because a regulation, a financial control or your current technology requires it. A credit check on a new account is necessary; the customer doesn't want it, but the company would be reckless without it. **Pure waste** is work the customer wouldn't notice if it stopped tomorrow.
 
 At Brightwater, the classification produced the argument of the morning. Building the quote was value-adding. Entering orders, checking credit, sending collections emails and applying cash were necessary. And then Priya wrote "pure waste" next to *Resolve disputes*.
+
+:::{figure} ../images/ch04-three-classes.png
+:label: fig-ch04-three-classes
+:alt: Three columns classifying Brightwater's steps by whether the customer would pay: value-adding holds Build quote, necessary holds Enter order, Check credit, Collections emails and Apply cash, and pure waste holds Resolve disputes as rework from upstream errors
+:width: 100%
+:align: center
+
+One question sorts every step into value-adding, necessary or pure waste. Resolving disputes lands in waste because it exists only to repair errors made upstream.
+:::
 
 The controller objected, and fairly. Disputes are real. Customers raise them. Someone has to resolve them, or the company writes off money it's owed. How can a step that protects revenue be waste?
 
@@ -171,6 +198,15 @@ When the walk is done and the waste is classified, you add up four numbers for t
 Those four numbers tell an executive more about a process than any org chart, and the map adds one more thing no dashboard shows: where the thinking is. Brightwater's map, with its thinking column filled in, showed three kinds of step. Rules-only steps, where clean data meets clear logic. Judgment steps, like building a quote or triaging a dispute, where the inputs are messy and every case is a little different. And one expert-judgment step, the new-account credit check, where the stakes were high enough that nobody wanted a machine deciding alone.
 
 That thinking column is your bridge to the next chapter. A step with no thinking in it doesn't need AI, however modern it would sound to give it some. A step full of expert judgment may need AI only as an assistant. And the steps in between are where packaged expertise and autonomous cognition earn their keep.
+
+:::{figure} ../images/ch04-thinking-column.png
+:label: fig-ch04-thinking-column
+:alt: Four kinds of thinking paired with what each step deserves: none means no AI needed, rules means plain automation, judgment means packaged expertise or autonomous cognition, and expert judgment means AI as assistant only
+:width: 100%
+:align: center
+
+The thinking column is the bridge from the map to the choice of tool. Where there is no thinking there is no case for AI, and where the judgment is expert, AI assists.
+:::
 
 The map also tells you something about yourself. Most executives, shown their first cognitive value stream map, have the same reaction: they had no idea. They knew the dispute backlog was a problem. They didn't know it was the single biggest pile of waiting in the business, sitting in front of a step that exists only because earlier steps went wrong. They knew inside sales was busy. They didn't know the busiest people were spending a large part of every quote searching for prices and re-keying customer details. Mapping doesn't just show you the work. It shows you how much of your picture of the work was a guess.
 

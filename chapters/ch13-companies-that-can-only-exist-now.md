@@ -80,6 +80,15 @@ Everything between the two lines in Figure 13.2 changes category. It stops being
 
 Here's a smaller reveal, and it surprises people who expect AI to shrink the amount of thinking work in the world. In 1865, the economist William Stanley Jevons published *The Coal Question*. He noticed that as steam engines grew more efficient at using coal, Britain burned more coal, not less. Cheaper work per unit opened up so many new uses that total demand rose. The same thing tends to happen with any input that suddenly gets cheap, and thinking is no exception. When reading a contract costs a few dollars instead of an hour, companies don't read the same number of contracts more cheaply. They read all of them.
 
+:::{figure} ../images/ch13-jevons.png
+:label: fig-ch13-jevons
+:alt: Two stacks of contracts: when thinking costs an hour only a sample is read, when it costs a few dollars every contract is read, illustrating Jevons's 1865 coal observation
+:width: 100%
+:align: center
+
+When thinking gets cheap per unit, companies do not do the same amount of it for less. They do far more of it, just as cheaper steam power burned more coal.
+:::
+
 So the right question is not "which tasks can AI do more cheaply?" That question leads straight back to the first wave, and to a slide full of hours that never reach the P&L. The right question is: **what's on the list we could never afford, and who would pay us to do it?**
 
 Some of the answers are internal. Brightwater can now check every invoice line for pricing errors before it goes out, and that lands in the ledger as a Fix line: fewer disputes, less rework. Some of the answers point outward, and those are the interesting ones. If Brightwater can check every invoice line for its own customers, it can probably check every invoice line for somebody else's. A job it could never afford to do for itself is suddenly a job it can afford to do for a fee.
@@ -118,6 +127,15 @@ Both companies saw the same truth. When your cost of delivering a result falls, 
 Go back to the firm in Figure 13.3. Instead of billing two hours, it sells the finished piece of work for \$1,500. The client pays \$500 less than before and is happy. The firm earns \$750 for each hour its expert spent, almost four times its old rate. And the efficiency gain, rather than leaking away, is now split between the two parties in plain sight. Every improvement the firm makes to its Skills from here on raises its margin instead of cutting its revenue.
 
 Outcome pricing comes with a catch, and it's the second smaller reveal of this chapter. When you sell hours, your customer carries the risk of the work going wrong: if the analysis takes longer, they pay more; if it's wrong, they pay you to fix it. When you sell outcomes, that risk moves to you. Every error is now your cost. The error rate you measured in Chapter 12, the compounded yield of a whole stream, stops being a quality statistic and becomes a line in your price.
+
+:::{figure} ../images/ch13-risk-moves.png
+:label: fig-ch13-risk-moves
+:alt: Two columns showing that when you sell hours the customer carries the risk of the work going long or wrong, and when you sell outcomes that risk and every error move to you
+:width: 100%
+:align: center
+
+Selling hours leaves the risk with the customer. Selling outcomes moves it to you, which turns your error rate into part of your price.
+:::
 
 That's why you price an outcome from the bottom up, and why the ledger you've built is the best pricing tool you own. Here's how Brightwater might price one dispute triaged for another distributor, using numbers it already trusts.
 
@@ -159,6 +177,15 @@ This is the model that would have been unthinkable in the age of muscle. A railr
 
 The trap is the sharpest of the three. Never sell the thing that is your edge. If Brightwater's quote Skill is the reason it wins business against larger rivals, licensing it to those rivals is giving away the store. Sell the Skills that solve common problems well, the ones every distributor needs and nobody competes on. Keep the ones that make customers choose you.
 
+:::{figure} ../images/ch13-edge-or-common.png
+:label: fig-ch13-edge-or-common
+:alt: Your Skills and agents sorted into two bins: those that solve a common problem, to sell, and those that are your edge, to keep
+:width: 100%
+:align: center
+
+Before licensing know-how, sort it. Common problems are products; your edge stays at home.
+:::
+
 Here is how the three compare on the questions leaders ask first.
 
 | Model | What the customer buys | What you must be able to count | Where it goes wrong |
@@ -178,6 +205,15 @@ The same order holds now. You cannot sell an outcome you can't deliver reliably.
 But the third wave doesn't need a separate department, a moonshot budget or a strategy retreat. It needs the same discipline you've used all along. Treat each new model as a ticket on the ledger board from Chapter 10. Give it an owner, a value case and a date. Size it with the same three numbers, theoretical, projected and realized, that you use for every other piece of work. Most new models will start under the **Grow** lever, because they bring in revenue that didn't exist before, and some will be large enough to run as an **Invest** line with a charter of their own.
 
 Then test small. Dana Ruiz didn't stake Brightwater on order entry for the whole buying group. She asked Priya Shah to sign two small distributors for a ninety-day pilot, at a fixed monthly fee, with Sam Whitfield measuring cost per correct order every week and Marcus Bell watching the margin. If the stream holds its accuracy on someone else's messy purchase orders, the pilot moves across the board. If it doesn't, it gets parked or killed, like any other ticket, and the company learns something cheap.
+
+:::{figure} ../images/ch13-pilot-path.png
+:label: fig-ch13-pilot-path
+:alt: A flow from a new model ticket with an owner, value case and date, through a ninety-day pilot and weekly measurement, to a decision that either moves it across the board or parks or kills it
+:width: 100%
+:align: center
+
+A third-wave business model runs through the same ledger as any other ticket: a small pilot, weekly measurement and a clear decision at the end.
+:::
 
 A new business model sounds like a bet. Run through the ledger, it becomes a series of small, measured experiments, each of which earns its way across the board or doesn't.
 

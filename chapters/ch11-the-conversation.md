@@ -57,6 +57,15 @@ When the hours decide, one of two things happens. Either they drift, and Parkins
 
 **Either you decide where the hours go, or the hours decide for you.**
 
+:::{figure} ../images/ch11-hours-decide.png
+:label: fig-ch11-hours-decide
+:alt: Freed hours split into two paths; when you decide, an Hour Budget gives every hour a job, and when nobody decides, the hours either drift away under Parkinson's law or end in a panicked, unplanned cut
+:width: 100%
+:align: center
+
+Freed hours never stay unassigned for long. Without an Hour Budget, the default outcomes are drift or an unplanned cut.
+:::
+
 History offers some comfort here, and an honest warning. When automated teller machines spread through American banks, plenty of people predicted the end of the bank teller. The economist James Bessen looked at what actually happened. Between 1988 and 2004 the number of tellers needed to run an average urban branch fell by about a third, because the machines took over cash handling. But cheaper branches meant banks opened more of them; urban branches grew by 43 percent. Total teller employment held roughly steady, and the job itself changed, from counting cash to building relationships and selling services. The machine took a task, not the job.
 
 That's the comfort. Here is where the analogy breaks: an ATM did one task, and AI touches thousands of tasks across almost every office role at once, so there is no law of nature guaranteeing that every job survives in a new form. Economists have a name for the opposite mistake, the "lump of labour" fallacy, the belief that there is a fixed amount of work to go around, so every task a machine takes is a job lost forever. Both stories are too simple. What actually happens in your company depends on the decisions your leaders make, in what order, and how honestly they explain them. Which is exactly what the Hour Budget is for.
@@ -109,6 +118,15 @@ The instinct is to cut the most expensive people first, because they free the mo
 
 **The person who checks the machine has to know more than the machine.**
 
+:::{figure} ../images/ch11-reviewer-trap.png
+:label: fig-ch11-reviewer-trap
+:alt: A loop of four boxes; cutting experienced reviewers to bank salaries leaves nobody who can spot the machine's mistakes, the error rate climbs, the cost of poor quality turns negative and the savings disappear
+:width: 100%
+:align: center
+
+Why the most expensive people are the wrong ones to cut first: their reviews are what keep the AI's error rate, and its savings, intact.
+:::
+
 That makes expert judgment the one asset an AI program can't afford to lose. Which brings us to the conversation itself.
 
 ## Tell Them Early
@@ -138,6 +156,15 @@ Why early? Because silence is not neutral. When leaders say nothing, people fill
 
 A practical rule for the message: never announce an AI tool without announcing the Hour Budget that goes with it. "We're rolling out a credit memo Skill" invites fear. "We're rolling out a credit memo Skill, the hours go to early-warning reviews of our top accounts, and Lena is leading that work" invites curiosity. The Hour Budget isn't just a finance document. It's the most reassuring thing you can show an anxious team, because it proves someone has thought about where the time goes.
 
+:::{figure} ../images/ch11-announce-budget.png
+:label: fig-ch11-announce-budget
+:alt: Two announcement cards compared; a tool-only announcement of a credit memo Skill invites fear, while the same announcement plus where the hours go and who leads that work invites curiosity
+:width: 100%
+:align: center
+
+The same rollout announced two ways. Adding where the freed hours go turns an anxious team into a curious one.
+:::
+
 ## Protect the Judgment
 
 Come back to Lena's two junior analysts. Before the Skill, they learned the job the way juniors in every profession have always learned it: by doing the routine cases. Gathering a hundred bank statements teaches you what a healthy one looks like. Keying a thousand trade references teaches you which ones smell wrong. The clerical work was never only clerical. It was the apprenticeship.
@@ -156,6 +183,15 @@ Figure 11.5: The middle row is the quiet failure. It looks like efficiency for y
 The answer is to redesign the ladder before you remove its bottom rung. At Brightwater, juniors now learn by reviewing the Skill's drafts, side by side with Lena, and explaining every change they make. Reviewing a machine's work, it turns out, is a fast way to learn, because every draft is a worked example and every correction is a lesson. Analysts take the exceptions the Skill flags as unusual, which are exactly the cases that build judgment. And experts like Lena get a new job that didn't exist before: they write the Skills. A Skill is a folder of instructions, examples and reference files that captures how the house does a piece of thinking work. Somebody has to decide what goes in it. That somebody should be the best person you have.
 
 This gives you the shape of reskilling in an AI-shaped company, and it's more concrete than most training catalogues. People move toward four kinds of work. **Reviewers** check the machine's output and own its quality. **Exception handlers** take the cases the machine routes to a human because they're unusual, risky or new. **Skill authors** turn expert know-how into packaged expertise that everyone can use. And **customer-facing roles** take the hours that Grow sends their way: the calls, visits and conversations a machine can prepare for but shouldn't hold alone. Each path should have a name, a start date and time set aside on the company's clock, because training squeezed into evenings is a promise people can see through.
+
+:::{figure} ../images/ch11-four-paths.png
+:label: fig-ch11-four-paths
+:alt: Freed people and hours flow toward four kinds of work, reviewers, exception handlers, Skill authors and customer-facing roles, each path needing a name, a start date and time on the company's clock
+:width: 100%
+:align: center
+
+The four destinations for reskilling in a company that uses AI well, each treated as part of the build rather than an evening course.
+:::
 
 Reskilling also belongs in the ledger, not just in HR's training calendar. Many Grow and Invest lines depend on redeployed people becoming good at new work. Tom's 2,000 hours of calls to lapsed accounts only bank if the people making those calls know how to win a customer back, and that is a skill, not a schedule change. So the AI Value Office treats training as part of the build: a Grow line isn't ready to bank until the people behind it have been trained, and the realization date allows for the months it takes them to get good. Leaders who skip this step blame the AI when the Grow line underdelivers. The AI did its part. The company didn't do its own.
 

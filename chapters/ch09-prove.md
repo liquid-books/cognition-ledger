@@ -67,6 +67,15 @@ Each number also has its own audience, which is another reason to keep them apar
 
 There's a practical rule that follows. Whenever a number about AI value leaves the room, in a deck, an email or an annual report, it travels with its label. "Theoretical" and "projected" are not embarrassing words. They're the words that keep the third number believable.
 
+:::{figure} ../images/ch09-three-audiences.png
+:label: fig-ch09-three-audiences
+:alt: Three separate columns matching each value number to its audience: theoretical value for the people choosing what to build, projected banked value for budget owners, and realized value for the board and auditors
+:width: 100%
+:align: center
+
+Each of the three numbers answers a different audience's question, so each one travels with its label.
+:::
+
 ## Two Ratios That Tell You Where to Look
 
 Three numbers become a management tool when you compare them. Two ratios do the work.
@@ -95,6 +104,15 @@ Figure 9.2: Money with a document behind it gets verified first. The levers with
 Cut leads at 41% verified, because a canceled contract is the easiest evidence in finance. Avoid follows at 31%, because a struck requisition is nearly as clean. Fix is at 13%, because error reports take a full quarter of history to compare. Grow and Speed are at zero: Grow because it needs a control group, Speed because its date hasn't come. Hard evidence realizes first. That should shape which levers you lean on early, when you need the program to earn trust.
 
 A word of caution about the ratio itself. Once people know they'll be judged on realization rate, the easiest way to raise it is to promise less. That's Goodhart's law, in the anthropologist Marilyn Strathern's well-known phrasing: when a measure becomes a target, it ceases to be a good measure. Brightwater guards against it by never reporting the rate alone. The rate sits beside the gap and the leak, so a team that sandbagged its plan would show a lovely rate and an ugly pile of unassigned hours.
+
+:::{figure} ../images/ch09-rate-not-alone.png
+:label: fig-ch09-rate-not-alone
+:alt: The realization rate formula above two panels: the trap, where promising less raises the rate under Goodhart's law, and the guard, where the rate is always reported beside the realization gap and the leak hours
+:width: 100%
+:align: center
+
+A realization rate can be raised by promising less. Reported beside the gap and the leak, it can't hide a sandbagged plan.
+:::
 
 ## The Verification Protocol
 
@@ -165,6 +183,15 @@ When a line fails verification, or sits at projected quarter after quarter, the 
 
 The same thinking tells you how to read the realization gap. Brightwater's \$926,317 isn't one problem; it's three, and they need different responses. The biggest and most urgent part is the leak: hours worth \$343,614 at loaded cost with no destination at all, which no amount of patience will turn into money. The next part is lines whose dates haven't arrived, which need nothing but time and a reminder in the right quarter. The last part is money that has happened but can't yet be proved, like Tom's \$33,500, which needs evidence. A good finance partner sorts the gap into those three piles every quarter, and the executive sponsor spends attention in that order: leak first, evidence second, calendar last.
 
+:::{figure} ../images/ch09-gap-three-piles.png
+:label: fig-ch09-gap-three-piles
+:alt: The 926,317 dollar realization gap split into three piles in priority order: leak worth 343,614 dollars that needs a decision, money that can't be proved yet such as the 33,500 dollar Grow line that needs evidence, and lines whose dates haven't arrived that need time
+:width: 100%
+:align: center
+
+The realization gap sorts into three piles, each with its own fix: a decision for the leak, evidence for the unproved money, and patience for the calendar.
+:::
+
 ## Five Ways a Savings Number Lies
 
 Most inflated AI numbers aren't fraud. They're honest people making one of five mistakes, and the protocol exists to catch every one.
@@ -180,6 +207,15 @@ The fourth is **pricing at the wrong rate**. Speed priced at the loaded rate ins
 The fifth is **letting the season do the work**: comparing a peak quarter's overtime with a quiet quarter's and calling the difference savings. Same months, a year earlier, every time.
 
 Each mistake makes the number bigger, which is why each one is tempting. And each one is found eventually, usually by the person you least want to find it.
+
+:::{figure} ../images/ch09-five-lies.png
+:label: fig-ch09-five-lies
+:alt: A two-column table pairing five common mistakes that inflate savings numbers with the rule that catches each one, from reporting theoretical value as savings to letting the season do the work
+:width: 100%
+:align: center
+
+Five honest mistakes that make a savings number bigger, and the rule in the protocol that catches each one.
+:::
 
 **A big number invites an audit. A verified number invites a budget.**
 

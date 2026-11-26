@@ -36,6 +36,15 @@ That one design decision shaped everything else. Machines had to sit in rows ben
 
 Notice what the factory was organized around. Not the product. Not the flow of materials from raw stock to finished part. It was organized around the engine, because the engine was the scarce, expensive, central thing, and everything else had to be arranged to reach it.
 
+:::{figure} ../images/ch01-line-shaft-cost.png
+:label: fig-ch01-line-shaft-cost
+:alt: Cutaway of a multi-storey line-shaft factory with one engine driving a ceiling shaft and belts to machines in rows, with callouts on rows under the shaft, tall buildings, shafting using a third to three quarters of the power, and one breakdown stopping every machine
+:width: 100%
+:align: center
+
+The line-shaft factory was laid out to carry power, not to move work. Its rows, its height, its wasted energy and its single point of failure all came from the engine.
+:::
+
 Hold that picture in your head. We'll come back to it, because most offices are built the same way.
 
 ## Forty years of disappointment
@@ -58,6 +67,15 @@ David published this finding in 1990 in a short paper with a long shadow: "The D
 David's answer was no, and his evidence was the dynamo. Around 1900 you could have said the same thing about electricity: you could see dynamos everywhere but in the productivity statistics. The technology wasn't the problem. The problem was that a general-purpose technology, one that touches every kind of work, pays off only after the work itself has been reorganised around it. That takes years, because the old arrangements are built into buildings, habits, skills and balance sheets. When the reorganisation finally happens, the gains arrive in a rush, and people who gave up early look foolish.
 
 That's the first small surprise in this chapter. The lag wasn't caused by the motor being immature. It was caused by everything around the motor being mature, and stubbornly so.
+
+:::{figure} ../images/ch01-why-the-lag.png
+:label: fig-ch01-why-the-lag
+:alt: A ready electric motor facing a wall of four blocks labelled buildings, habits, skills and balance sheets, with an arrow breaking through as reorganise the work to reach productivity gain
+:width: 100%
+:align: center
+
+The motor was not what held productivity back. The old arrangement around it was, and the gain arrived only once the work was reorganised.
+:::
 
 ## Group drive, unit drive, and the floor plan nobody drew
 
@@ -107,6 +125,15 @@ You won't see a line shaft. But you'll see the same design principle at work. Th
 
 That structure made perfect sense when thinking work could only be done by people. It's built into how companies are organized, how jobs are defined, how departments are budgeted, and how performance is measured. It's as solid as the brick walls of a four-storey mill.
 
+:::{figure} ../images/ch01-factory-to-office.png
+:label: fig-ch01-factory-to-office
+:alt: Two-column mapping from a 1900 factory to today's office: scarce power to scarce judgment, line shaft to org chart, belts to each machine to handoffs between desks, machines in rows under the shaft to desks with queues and backlogs
+:width: 100%
+:align: center
+
+The office copies the line-shaft factory. Judgment is the scarce resource, the org chart is the shaft, and every handoff is a belt to the next queue.
+:::
+
 AI makes thinking work cheap in the way electricity made rotation cheap. It can now do a large share of the reading, sorting, drafting, matching and checking that used to require a person's attention. So what are most companies doing with it?
 
 Exactly what the machine-shop owner did. They are putting the new engine where the old one stood.
@@ -131,6 +158,15 @@ It's the two tools this book keeps returning to, used the way unit drive was use
 But here's the part the electric motor already taught us. A Skill dropped onto the old org chart is a motor bolted to the old shaft. It makes one desk faster. It doesn't remove the queue in front of that desk, the approval behind it, or the handoff after it. The value only arrives when someone redraws the floor: decides which queues can disappear, which approvals can become rules, where people truly need to decide, and how work should flow from request to cash. That redesign is a management act, not a technology purchase.
 
 Every analogy breaks somewhere, and it's worth saying where this one does. A motor never made a decision. It turned when switched on and stopped when switched off. AI does something closer to judgment, which means it can be wrong in ways a motor couldn't, and its errors can travel downstream and compound. That's why the redesigned office isn't simply "AI everywhere." It's AI doing the thinking work it's good at, with people placed at the points where a mistake would be expensive. In the figure above those are the pink checkpoints. The factory analogy tells you to redesign the floor. It doesn't tell you where the people stand. Later chapters do.
+
+:::{figure} ../images/ch01-where-analogy-breaks.png
+:label: fig-ch01-where-analogy-breaks
+:alt: Comparison of an electric motor, which turns on and off and makes no decisions, with AI, which does work close to judgment, can be wrong and whose errors compound downstream, above a five-step flow where AI does most steps and a person decides at the steps where a mistake would be expensive
+:width: 100%
+:align: center
+
+Where the motor analogy breaks: AI makes judgment-like calls and can be wrong. The redesigned flow lets AI do the thinking work and puts people at the steps where a mistake would be expensive.
+:::
 
 ## Three waves
 
