@@ -1,0 +1,678 @@
+{
+ "generated": "2026-11-26",
+ "skill": "book-writer (vendor 3030bb2e0bf0), image chain: OpenRouter google/gemini-3-pro-image primary, Google AI gemini-3-pro-image fallback",
+ "images": [
+  {
+   "file": "images/appA-one-page.png",
+   "kind": "author diagram",
+   "source": "diagrams/appA-one-page.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/appB-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/appB-sort-tree.png",
+   "kind": "author diagram",
+   "source": "diagrams/appB-sort-tree.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/appC-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/appD-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/appE-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00-manifesto.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch00-manifesto.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch00b-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch00b-reading-map.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch00b-reading-map.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch00b-slide-vs-pl.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch00b-slide-vs-pl.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch00b-tools-change.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch00b-tools-change.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch01-bolt-on.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch01-bolt-on.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch01-dynamo-lag.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch01-dynamo-lag.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch01-floor-plan-quote.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch01-floor-plan-quote.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch01-group-vs-unit.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch01-group-vs-unit.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch01-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch01-three-waves.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch01-three-waves.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch02-hour-leak.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch02-hour-leak.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch02-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch02-otc01-banked.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch02-otc01-banked.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch02-scraps.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch02-scraps.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch02-time-to-money.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch02-time-to-money.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch02-two-desks.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch02-two-desks.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch03-iceberg.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch03-iceberg.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch03-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch03-office-factory.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch03-office-factory.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch03-quote-timeline.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch03-quote-timeline.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch03-rolled-ca.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch03-rolled-ca.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch03-typing-vs-waiting.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch03-typing-vs-waiting.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch04-brightwater-map.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch04-brightwater-map.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch04-cheaper-waste.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch04-cheaper-waste.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch04-delete-simplify-automate.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch04-delete-simplify-automate.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch04-eight-wastes.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch04-eight-wastes.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch04-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch04-upstream.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch04-upstream.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch05-brightwater-plot.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch05-brightwater-plot.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch05-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch05-ladder.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch05-ladder.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch05-progressive-disclosure.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch05-progressive-disclosure.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch05-skill-vs-agent.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch05-skill-vs-agent.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch05-skills-feed-agents.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch05-skills-feed-agents.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch05-sort-tree.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch05-sort-tree.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch06-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch06-priority.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch06-priority.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch06-promise.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch06-promise.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch06-quality-both-ways.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch06-quality-both-ways.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch06-three-numbers.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch06-three-numbers.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch06-time-bridge.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch06-time-bridge.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch07-five-patterns.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch07-five-patterns.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch07-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch07-job-description.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch07-job-description.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch07-pilot-loop.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch07-pilot-loop.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch07-review-minutes.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch07-review-minutes.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch07-skill-anatomy.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch07-skill-anatomy.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch08-hour-budget.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch08-hour-budget.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch08-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch08-otc01-waterfall.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch08-otc01-waterfall.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch08-six-levers.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch08-six-levers.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch08-speed-twist.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch08-speed-twist.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch08-value-exceeds-hours.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch08-value-exceeds-hours.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch09-dashboard.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch09-dashboard.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch09-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch09-lever-realization.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch09-lever-realization.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch09-three-numbers.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch09-three-numbers.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch09-verification-gate.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch09-verification-gate.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch09-verified-lines.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch09-verified-lines.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch10-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch10-kill-park.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch10-kill-park.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch10-ledger-board.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch10-ledger-board.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch10-rhythm.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch10-rhythm.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch10-value-office.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch10-value-office.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch10-wip-jam.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch10-wip-jam.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch11-apprentice.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch11-apprentice.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch11-bank-order.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch11-bank-order.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch11-five-questions.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch11-five-questions.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch11-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch11-lena-week.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch11-lena-week.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch11-otc01-people.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch11-otc01-people.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch12-checkpoints.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch12-checkpoints.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch12-error-staircase.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch12-error-staircase.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch12-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch12-littles-law.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch12-littles-law.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch12-otc-stream.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch12-otc-stream.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch12-patterns.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch12-patterns.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch12-stream-metrics.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch12-stream-metrics.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch13-hour-vs-outcome.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch13-hour-vs-outcome.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch13-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch13-muscle-mind.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch13-muscle-mind.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch13-pricing-stack.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch13-pricing-stack.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch13-three-models.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch13-three-models.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch13-too-expensive.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch13-too-expensive.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch14-90-days.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch14-90-days.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch14-infographic.png",
+   "kind": "opening infographic",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  },
+  {
+   "file": "images/ch14-ten-principles.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch14-ten-principles.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/ch14-tools-change.png",
+   "kind": "author diagram",
+   "source": "diagrams/ch14-tools-change.svg",
+   "provider": "none (rendered locally from the author's SVG with sharp)",
+   "model": null
+  },
+  {
+   "file": "images/cover.png",
+   "kind": "cover",
+   "provider": "openrouter",
+   "model": "google/gemini-3-pro-image",
+   "fell_back": false
+  }
+ ]
+}

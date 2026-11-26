@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" font-family="Mona Sans, Inter, sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="1600" height="1200" fill="#FFFFFF"/>
+<text x="80" y="96" font-size="46" font-weight="800" fill="#0D1117">Six moves, six gates: from saved hour to banked dollar</text>
+<text x="80" y="144" font-size="25" fill="#5B6470">Read each column top to bottom. A ticket can't move right until it clears its gate.</text>
+<rect x="212" y="180" width="208" height="66" rx="14" fill="#61D8FE"/>
+<text x="316.0" y="224" font-size="28" font-weight="800" fill="#0D1117" text-anchor="middle" letter-spacing="2">1 MAP</text>
+<polygon points="422,203 431,213 422,223" fill="#ADB5BD"/>
+<rect x="212" y="260" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="316.0" y="301" font-size="23" fill="#333333" text-anchor="middle">Where is the</text>
+<text x="316.0" y="332" font-size="23" fill="#333333" text-anchor="middle">thinking work,</text>
+<text x="316.0" y="363" font-size="23" fill="#333333" text-anchor="middle">and the waste?</text>
+<rect x="212" y="400" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="316.0" y="456" font-size="23" fill="#333333" text-anchor="middle">Map with touch,</text>
+<text x="316.0" y="488" font-size="23" fill="#333333" text-anchor="middle">wait and %C&amp;A</text>
+<rect x="212" y="540" width="208" height="128" rx="14" fill="#FF5CAD"/>
+<text x="316.0" y="581" font-size="23" fill="#0D1117" text-anchor="middle">Waste deleted</text>
+<text x="316.0" y="612" font-size="23" fill="#0D1117" text-anchor="middle">or simplified</text>
+<text x="316.0" y="643" font-size="23" fill="#0D1117" text-anchor="middle">first</text>
+<rect x="432" y="180" width="208" height="66" rx="14" fill="#61D8FE"/>
+<text x="536.0" y="224" font-size="28" font-weight="800" fill="#0D1117" text-anchor="middle" letter-spacing="2">2 SORT</text>
+<polygon points="642,203 651,213 642,223" fill="#ADB5BD"/>
+<rect x="432" y="260" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="536.0" y="301" font-size="23" fill="#333333" text-anchor="middle">Rules, Skill,</text>
+<text x="536.0" y="332" font-size="23" fill="#333333" text-anchor="middle">agent or a</text>
+<text x="536.0" y="363" font-size="23" fill="#333333" text-anchor="middle">person?</text>
+<rect x="432" y="400" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="536.0" y="456" font-size="23" fill="#333333" text-anchor="middle">Sort Score</text>
+<text x="536.0" y="488" font-size="23" fill="#333333" text-anchor="middle">and a type</text>
+<rect x="432" y="540" width="208" height="128" rx="14" fill="#FF5CAD"/>
+<text x="536.0" y="581" font-size="23" fill="#0D1117" text-anchor="middle">Nine scores in;</text>
+<text x="536.0" y="612" font-size="23" fill="#0D1117" text-anchor="middle">owner agrees</text>
+<text x="536.0" y="643" font-size="23" fill="#0D1117" text-anchor="middle">the type</text>
+<rect x="652" y="180" width="208" height="66" rx="14" fill="#61D8FE"/>
+<text x="756.0" y="224" font-size="28" font-weight="800" fill="#0D1117" text-anchor="middle" letter-spacing="2">3 SIZE</text>
+<polygon points="862,203 871,213 862,223" fill="#ADB5BD"/>
+<rect x="652" y="260" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="756.0" y="301" font-size="23" fill="#333333" text-anchor="middle">How much time,</text>
+<text x="756.0" y="332" font-size="23" fill="#333333" text-anchor="middle">money and</text>
+<text x="756.0" y="363" font-size="23" fill="#333333" text-anchor="middle">quality?</text>
+<rect x="652" y="400" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="756.0" y="441" font-size="23" fill="#333333" text-anchor="middle">Measured</text>
+<text x="756.0" y="472" font-size="23" fill="#333333" text-anchor="middle">baseline and</text>
+<text x="756.0" y="503" font-size="23" fill="#333333" text-anchor="middle">projection</text>
+<rect x="652" y="540" width="208" height="128" rx="14" fill="#FF5CAD"/>
+<text x="756.0" y="581" font-size="23" fill="#0D1117" text-anchor="middle">Baseline timed</text>
+<text x="756.0" y="612" font-size="23" fill="#0D1117" text-anchor="middle">on 20+ real</text>
+<text x="756.0" y="643" font-size="23" fill="#0D1117" text-anchor="middle">units</text>
+<rect x="872" y="180" width="208" height="66" rx="14" fill="#61D8FE"/>
+<text x="976.0" y="224" font-size="28" font-weight="800" fill="#0D1117" text-anchor="middle" letter-spacing="2">4 SHIP</text>
+<polygon points="1082,203 1091,213 1082,223" fill="#ADB5BD"/>
+<rect x="872" y="260" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="976.0" y="316" font-size="23" fill="#333333" text-anchor="middle">Does it work</text>
+<text x="976.0" y="348" font-size="23" fill="#333333" text-anchor="middle">on real cases?</text>
+<rect x="872" y="400" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="976.0" y="456" font-size="23" fill="#333333" text-anchor="middle">A piloted Skill</text>
+<text x="976.0" y="488" font-size="23" fill="#333333" text-anchor="middle">or agent</text>
+<rect x="872" y="540" width="208" height="128" rx="14" fill="#FF5CAD"/>
+<text x="976.0" y="581" font-size="23" fill="#0D1117" text-anchor="middle">New minutes</text>
+<text x="976.0" y="612" font-size="23" fill="#0D1117" text-anchor="middle">and errors</text>
+<text x="976.0" y="643" font-size="23" fill="#0D1117" text-anchor="middle">measured</text>
+<rect x="1092" y="180" width="208" height="66" rx="14" fill="#544AE9"/>
+<text x="1196.0" y="224" font-size="28" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">5 BANK</text>
+<polygon points="1302,203 1311,213 1302,223" fill="#ADB5BD"/>
+<rect x="1092" y="260" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="1196.0" y="301" font-size="23" fill="#333333" text-anchor="middle">Where does</text>
+<text x="1196.0" y="332" font-size="23" fill="#333333" text-anchor="middle">every freed</text>
+<text x="1196.0" y="363" font-size="23" fill="#333333" text-anchor="middle">hour go?</text>
+<rect x="1092" y="400" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="1196.0" y="441" font-size="23" fill="#333333" text-anchor="middle">Hour Budget</text>
+<text x="1196.0" y="472" font-size="23" fill="#333333" text-anchor="middle">signed by the</text>
+<text x="1196.0" y="503" font-size="23" fill="#333333" text-anchor="middle">budget owner</text>
+<rect x="1092" y="540" width="208" height="128" rx="14" fill="#FF5CAD"/>
+<text x="1196.0" y="581" font-size="23" fill="#0D1117" text-anchor="middle">Every hour has</text>
+<text x="1196.0" y="612" font-size="23" fill="#0D1117" text-anchor="middle">a lever or</text>
+<text x="1196.0" y="643" font-size="23" fill="#0D1117" text-anchor="middle">shows as Leak</text>
+<rect x="1312" y="180" width="208" height="66" rx="14" fill="#544AE9"/>
+<text x="1416.0" y="224" font-size="28" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">6 PROVE</text>
+<rect x="1312" y="260" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="1416.0" y="316" font-size="23" fill="#333333" text-anchor="middle">Did the money</text>
+<text x="1416.0" y="348" font-size="23" fill="#333333" text-anchor="middle">show up?</text>
+<rect x="1312" y="400" width="208" height="128" rx="14" fill="#FFFFFF" stroke="#E9ECEF" stroke-width="3"/>
+<text x="1416.0" y="441" font-size="23" fill="#333333" text-anchor="middle">Realized value</text>
+<text x="1416.0" y="472" font-size="23" fill="#333333" text-anchor="middle">verified by</text>
+<text x="1416.0" y="503" font-size="23" fill="#333333" text-anchor="middle">finance</text>
+<rect x="1312" y="540" width="208" height="128" rx="14" fill="#FF5CAD"/>
+<text x="1416.0" y="581" font-size="23" fill="#0D1117" text-anchor="middle">Finance has</text>
+<text x="1416.0" y="612" font-size="23" fill="#0D1117" text-anchor="middle">seen the</text>
+<text x="1416.0" y="643" font-size="23" fill="#0D1117" text-anchor="middle">evidence</text>
+<text x="80" y="332" font-size="22" font-weight="700" fill="#5B6470" letter-spacing="1.5">ASKS</text>
+<text x="80" y="472" font-size="22" font-weight="700" fill="#5B6470" letter-spacing="1.5">MAKES</text>
+<text x="80" y="612" font-size="22" font-weight="700" fill="#5B6470" letter-spacing="1.5">GATE</text>
+<text x="80" y="841" font-size="22" font-weight="700" fill="#5B6470" letter-spacing="1.5">STATUS</text>
+<text x="80" y="966" font-size="22" font-weight="700" fill="#5B6470" letter-spacing="1.5">NUMBERS</text>
+<rect x="212" y="694" width="1308" height="70" rx="14" fill="#1A184C"/>
+<text x="866" y="738" font-size="27" font-weight="700" fill="#FFFFFF" text-anchor="middle">Override gate: nothing enters Building without a draft Hour Budget.</text>
+<rect x="212" y="808" width="140" height="54" rx="27" fill="#FFFFFF" stroke="#ADB5BD" stroke-width="3"/>
+<text x="282" y="843" font-size="23" font-weight="700" fill="#0D1117" text-anchor="middle">Intake</text>
+<polygon points="356,826 370,835 356,844" fill="#ADB5BD"/>
+<rect x="376" y="808" width="140" height="54" rx="27" fill="#FFFFFF" stroke="#ADB5BD" stroke-width="3"/>
+<text x="446" y="843" font-size="23" font-weight="700" fill="#0D1117" text-anchor="middle">Sorted</text>
+<polygon points="520,826 534,835 520,844" fill="#ADB5BD"/>
+<rect x="540" y="808" width="140" height="54" rx="27" fill="#FFFFFF" stroke="#ADB5BD" stroke-width="3"/>
+<text x="610" y="843" font-size="23" font-weight="700" fill="#0D1117" text-anchor="middle">Sized</text>
+<polygon points="684,826 698,835 684,844" fill="#ADB5BD"/>
+<rect x="704" y="808" width="140" height="54" rx="27" fill="#FFFFFF" stroke="#ADB5BD" stroke-width="3"/>
+<text x="774" y="843" font-size="23" font-weight="700" fill="#0D1117" text-anchor="middle">Building</text>
+<polygon points="848,826 862,835 848,844" fill="#ADB5BD"/>
+<rect x="868" y="808" width="140" height="54" rx="27" fill="#FFFFFF" stroke="#ADB5BD" stroke-width="3"/>
+<text x="938" y="843" font-size="23" font-weight="700" fill="#0D1117" text-anchor="middle">Live</text>
+<polygon points="1012,826 1026,835 1012,844" fill="#ADB5BD"/>
+<rect x="1032" y="808" width="140" height="54" rx="27" fill="#544AE9"/>
+<text x="1102" y="843" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">Banked</text>
+<polygon points="1176,826 1190,835 1176,844" fill="#ADB5BD"/>
+<rect x="1196" y="808" width="140" height="54" rx="27" fill="#544AE9"/>
+<text x="1266" y="843" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">Realized</text>
+<rect x="1376" y="808" width="144" height="54" rx="27" fill="#E9ECEF" stroke="#ADB5BD" stroke-width="3" stroke-dasharray="8 6"/><text x="1448" y="843" font-size="23" font-weight="700" fill="#5B6470" text-anchor="middle">Parked</text>
+<rect x="212" y="900" width="420" height="116" rx="16" fill="#E9ECEF"/>
+<text x="422" y="948" font-size="28" font-weight="800" fill="#0D1117" text-anchor="middle">Theoretical</text>
+<text x="422" y="990" font-size="23" fill="#333333" text-anchor="middle">hours × rate: the opportunity</text>
+<text x="644" y="968" font-size="26" font-weight="800" fill="#ADB5BD" text-anchor="middle">≠</text>
+<rect x="656" y="900" width="420" height="116" rx="16" fill="#FFFFFF" stroke="#544AE9" stroke-width="4"/>
+<text x="866" y="948" font-size="28" font-weight="800" fill="#0D1117" text-anchor="middle">Projected banked</text>
+<text x="866" y="990" font-size="23" fill="#333333" text-anchor="middle">lever, P&amp;L line, owner, date</text>
+<text x="1088" y="968" font-size="26" font-weight="800" fill="#ADB5BD" text-anchor="middle">≠</text>
+<rect x="1100" y="900" width="420" height="116" rx="16" fill="#544AE9"/>
+<text x="1310" y="948" font-size="28" font-weight="800" fill="#FFFFFF" text-anchor="middle">Realized</text>
+<text x="1310" y="990" font-size="23" fill="#FFFFFF" text-anchor="middle">verified by finance: the money</text>
+<rect x="80" y="1062" width="8" height="56" fill="#61D8FE"/>
+<text x="110" y="1100" font-size="32" font-weight="700" fill="#0D1117">An hour clears six gates before anyone may call it savings.</text>
+<text x="1520" y="1165" font-size="22" fill="#5B6470" text-anchor="end">The Cognition Ledger · DrLee.ai</text>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo0YTY4OTY2Mi1hZTUwLTQ3YmYtOTZhYy0zNWRiMTdlZmQ1NWUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaNuFMc3FLzTH5/w+Yr4zGVYAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo5M2RkNjM4MS02YzlhLTQzMjQtOTFjMy1kNzFlMGM0MTEyZjZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNonWlTBRa1pW76dVZbPSPQwAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggtxeG7vLqTv4EsFGwGeTHSoWFSaQoGFuqcubMmRj02YOkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHR/pRNRRnbiq64iLv8l8mMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIOcyc6gvUzBCEaqpT6849SgxelJh1UovEO88tYTPA00TZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GTDYZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjRhNjg5NjYyLWFlNTAtNDdiZi05NmFjLTM1ZGIxN2VmZDU1ZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmVhZGFjNGJlLTM3OTItNDM1My1hMTVlLWYwNzEzNGFiZTNjN3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCC3F4bu8upO/gSwUbAZ5MdKhYVJpCgYW6py5syZGPTZg6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggSFw0Z+vjcCPWjIGwr3OaYBq4D/RjRVu2dlCYH4S5FxOiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggYk4gxglhyR1B37vhzAWd9SQL5hVw6fyrGvMMlSIv0wh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJsjlTCfpgt1/GkyKNtLkkrYA6eFozUV50aSTAwYs5agWxhE6PzV448IG6wojMUUR+kkUsTPOGoAA9X7gK4T5bc=</c2pa:manifest></metadata></svg>

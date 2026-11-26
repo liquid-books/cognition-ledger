@@ -5,23 +5,81 @@ project:
   subtitle: "Why AI Saves Time, Not Money, and How Leaders Bank the Difference"
   authors:
     - name: Dr. Ernesto Lee
-  description: "The Cognition Ledger"
-  keywords: []
+  description: "Why AI saves time, not money, and how leaders bank the difference: a masterclass for CEOs, CFOs, managers and data scientists on turning freed hours into verified value on the P&L."
+  keywords: [artificial intelligence, AI value, value stream mapping, productivity, P&L, AI agents, Claude Skills, leadership]
   license: CC-BY-4.0
   open_access: true
   github: https://github.com/liquid-books/cognition-ledger
   numbering:
-    heading_1: true
-    heading_2: true
-    heading_3: true
-    figure: true
+    figure: false
     table: true
     equation: true
+    headings: false
   exports:
     - format: pdf
-  # Table of contents — append one entry per chapter, keeping this indentation.
   toc:
     - file: index.md
+      title: Home
+
+    - title: "Front Matter"
+      children:
+        - file: chapters/ch00-manifesto.md
+          title: "The Cognition Ledger Manifesto"
+        - file: chapters/ch00b-introduction.md
+          title: "Introduction: The $1.5 Million Nobody Can Find"
+
+    - title: "Part I: The Money That Vanishes"
+      children:
+        - file: chapters/ch01-muscle-then-mind.md
+          title: "Chapter 1: Muscle, Then Mind"
+        - file: chapters/ch02-ai-saves-time-not-money.md
+          title: "Chapter 2: AI Saves Time, Not Money"
+        - file: chapters/ch03-office-factory.md
+          title: "Chapter 3: Your Office Is a Factory You Can't See"
+
+    - title: "Part II: The Six Moves"
+      children:
+        - file: chapters/ch04-map.md
+          title: "Chapter 4: Map: Don't Automate the Mess"
+        - file: chapters/ch05-sort.md
+          title: "Chapter 5: Sort: The Most Exciting Idea in the Room Doesn't Need AI"
+        - file: chapters/ch06-size.md
+          title: "Chapter 6: Size: The Three Numbers Every Automation Owes You"
+        - file: chapters/ch07-ship.md
+          title: "Chapter 7: Ship: Hire Your Digital Worker Like an Employee"
+        - file: chapters/ch08-bank.md
+          title: "Chapter 8: Bank: Give Every Hour a Job"
+        - file: chapters/ch09-prove.md
+          title: "Chapter 9: Prove: It Isn't Savings Until Finance Says So"
+
+    - title: "Part III: Leading the Shift"
+      children:
+        - file: chapters/ch10-keep-the-books-open.md
+          title: "Chapter 10: Keep the Books Open"
+        - file: chapters/ch11-the-conversation.md
+          title: "Chapter 11: The Conversation Everyone Is Avoiding"
+        - file: chapters/ch12-machines-talking.md
+          title: "Chapter 12: When the Machines Start Talking to Each Other"
+        - file: chapters/ch13-companies-that-can-only-exist-now.md
+          title: "Chapter 13: The Companies That Can Only Exist Now"
+
+    - title: "Closing"
+      children:
+        - file: chapters/ch14-principles.md
+          title: "Closing: The Ten Principles of the Cognition Ledger"
+
+    - title: "Appendices"
+      children:
+        - file: chapters/appendix-a-one-page.md
+          title: "Appendix A: The Cognition Ledger on One Page"
+        - file: chapters/appendix-b-sort-score.md
+          title: "Appendix B: The Sort Score Worksheet"
+        - file: chapters/appendix-c-hour-budget.md
+          title: "Appendix C: The Hour Budget Template"
+        - file: chapters/appendix-d-formulas.md
+          title: "Appendix D: The Formulas, Worked Through"
+        - file: chapters/appendix-e-glossary.md
+          title: "Appendix E: Glossary"
 
 site:
   template: book-theme
