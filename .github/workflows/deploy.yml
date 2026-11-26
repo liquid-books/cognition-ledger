@@ -34,7 +34,7 @@ jobs:
       - name: Install Typst (for PDF export)
         uses: typst-community/setup-typst@v3
       - name: Install MyST Markdown
-        run: npm install -g mystmd@1.10.1
+        run: npm install -g mystmd
       - name: Build HTML and PDF assets
         run: |
           myst build --html
