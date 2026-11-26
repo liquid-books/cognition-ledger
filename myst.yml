@@ -1,0 +1,33 @@
+# MyST project configuration — https://mystmd.org/guide/configuration
+version: 1
+project:
+  title: "The Cognition Ledger"
+  subtitle: "Why AI Saves Time, Not Money, and How Leaders Bank the Difference"
+  authors:
+    - name: Dr. Ernesto Lee
+  description: "The Cognition Ledger"
+  keywords: []
+  license: CC-BY-4.0
+  open_access: true
+  github: https://github.com/liquid-books/cognition-ledger
+  numbering:
+    heading_1: true
+    heading_2: true
+    heading_3: true
+    figure: true
+    table: true
+    equation: true
+  exports:
+    - format: pdf
+  # Table of contents — append one entry per chapter, keeping this indentation.
+  toc:
+    - file: index.md
+
+site:
+  template: book-theme
+  title: "The Cognition Ledger"
+  options:
+    logo_text: "The Cognition Ledger"
+    logo_url: "/cognition-ledger/"
+  parts:
+    primary_sidebar_footer: primary-sidebar-footer.md

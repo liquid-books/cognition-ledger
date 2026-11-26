@@ -1,0 +1,18 @@
+# MyST build artifacts
+_build/
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Secrets — never commit keys
+.env
+credentials.env
+*.key
+*.pem
