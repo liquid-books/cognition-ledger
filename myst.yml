@@ -86,6 +86,6 @@ site:
   title: "The Cognition Ledger"
   options:
     logo_text: "The Cognition Ledger"
-    logo_url: "/cognition-ledger/"
+    logo_url: "/"
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
