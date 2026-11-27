@@ -5,6 +5,9 @@ project:
   subtitle: "Why AI Saves Time, Not Money, and How Leaders Bank the Difference"
   authors:
     - name: Dr. Ernesto Lee
+      affiliations:
+        - BeHmn.com
+        - DrLee.ai
     - name: Alex Schwartz
       affiliation: BeHmn.com
   description: "Why AI saves time, not money, and how leaders bank the difference: a masterclass for CEOs, CFOs, managers and data scientists on turning freed hours into verified value on the P&L."
