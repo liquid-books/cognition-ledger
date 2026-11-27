@@ -18,7 +18,10 @@ project:
     equation: true
     headings: false
   exports:
-    - format: pdf
+    # Typst, not LaTeX: the runner installs Typst only (LaTeX/latexmk is not available there)
+    - format: typst
+      id: book-pdf
+      output: _build/exports/cognition-ledger.pdf
   toc:
     - file: index.md
       title: Home
