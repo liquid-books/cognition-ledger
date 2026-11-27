@@ -159,6 +159,6 @@ Every Cognition Ledger formula worked through on the Brightwater numbers.
 Plain-language definitions of every term in the book.
 :::
 
-<!-- GRID_PLACEHOLDER -->
+% GRID_PLACEHOLDER
 
 ::::
