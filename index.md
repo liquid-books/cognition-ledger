@@ -2,23 +2,23 @@
 title: "The Cognition Ledger"
 subtitle: "Why AI Saves Time, Not Money, and How Leaders Bank the Difference"
 description: |
-  Why AI saves time, not money, and how leaders bank the difference. By Dr. Ernesto Lee.
+  Why AI saves time, not money, and how leaders bank the difference. By Dr. Ernesto Lee and Alex Schwartz.
 ---
 
 :::{figure} images/cover.png
 :label: fig-cover
-:alt: The Cognition Ledger cover by Dr. Ernesto Lee
+:alt: The Cognition Ledger cover by Dr. Ernesto Lee and Alex Schwartz
 :width: 100%
 :align: center
 
-*The Cognition Ledger* · Dr. Ernesto Lee
+*The Cognition Ledger* · Dr. Ernesto Lee & Alex Schwartz
 :::
 
 
 # The Cognition Ledger
 ## Why AI Saves Time, Not Money, and How Leaders Bank the Difference
 
-**By Dr. Ernesto Lee**
+**By Dr. Ernesto Lee and Alex Schwartz**
 
 ---
 
