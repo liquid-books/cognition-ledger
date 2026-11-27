@@ -95,5 +95,7 @@ site:
   options:
     logo_text: "The Cognition Ledger"
     logo_url: "/"
+    # Authors show on the landing page (index.md re-enables them) and the PDF title page, not on every chapter
+    hide_authors: true
   parts:
     primary_sidebar_footer: primary-sidebar-footer.md
